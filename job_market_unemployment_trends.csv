@@ -1,0 +1,1001 @@
+id,data,localização,taxa_desemprego,ofertas_emprego,habilidades_em_demanda,media_idade,grau_escolaridade
+1,45206,Houston,6.8,4894,"Agile Methodologies, Project Management",44,74
+2,45801,Washington,11.1,2695,"Data Analysis, UX/UI Design, Digital Marketing",50,87
+3,45563,Chicago,7.3,1174,"Agile Methodologies, Digital Marketing, Machine Learning, Cloud Computing, Cybersecurity",48,54
+4,45654,Indianapolis,11.2,3708,"Cloud Computing, UX/UI Design",36,75
+5,45179,New York,13.7,268,"SQL, Machine Learning, Python, Project Management, Customer Service",41,75
+6,45657,Los Angeles,5.0,1785,"Cloud Computing, UX/UI Design, Project Management",37,52
+7,45170,Phoenix,13.7,2784,"Data Analysis, Project Management",33,38
+8,45573,San Jose,10.1,4981,"Customer Service, UX/UI Design, Cybersecurity, Python, SQL",34,44
+9,45510,Austin,9.0,2453,"Digital Marketing, JavaScript",30,68
+10,45336,Dallas,12.4,808,"Cloud Computing, JavaScript",39,44
+11,45369,San Francisco,5.5,989,"Data Analysis, Cloud Computing",28,82
+12,45778,Washington,2.3,2135,"Project Management, Digital Marketing, Agile Methodologies",27,68
+13,45759,Phoenix,14.6,4054,"Agile Methodologies, JavaScript, UX/UI Design",25,88
+14,45680,Los Angeles,8.2,4206,"Cybersecurity, Data Analysis",37,45
+15,45578,Columbus,3.3,4005,"Project Management, Sales, UX/UI Design",35,85
+16,45160,San Antonio,6.0,4147,"Sales, UX/UI Design, JavaScript, Digital Marketing",32,85
+17,45541,San Jose,13.0,4580,"SQL, JavaScript, Customer Service, UX/UI Design",44,33
+18,45511,Washington,14.6,4809,"Cybersecurity, JavaScript, SQL, Cloud Computing",46,89
+19,45407,Jacksonville,4.5,2265,"JavaScript, Python",48,48
+20,45733,San Jose,2.3,4694,"Digital Marketing, Customer Service, Cybersecurity, JavaScript, Agile Methodologies",46,46
+21,45303,San Francisco,14.8,4341,"UX/UI Design, Customer Service",28,32
+22,45787,Jacksonville,9.3,4254,"Data Analysis, UX/UI Design",43,38
+23,45510,Seattle,14.7,3377,"Data Analysis, Customer Service, Sales, Cybersecurity",37,90
+24,45657,Charlotte,2.0,1892,"Cybersecurity, Sales, Data Analysis, Project Management",36,51
+25,45558,Columbus,14.4,58,"SQL, Machine Learning",44,31
+26,45362,Indianapolis,7.1,3665,"Python, Agile Methodologies, SQL, Sales, Machine Learning",29,37
+27,45592,Washington,7.9,3613,"Project Management, UX/UI Design, Machine Learning, Python",32,76
+28,45645,San Francisco,2.9,3376,"Data Analysis, Machine Learning, Customer Service, Python, Agile Methodologies",39,38
+29,45468,Charlotte,2.5,1377,"Digital Marketing, Customer Service",27,50
+30,45660,Philadelphia,7.3,4155,"UX/UI Design, Machine Learning",38,70
+31,45528,Houston,13.8,1558,"Machine Learning, Cloud Computing, Customer Service",36,63
+32,45278,Jacksonville,5.2,3166,"SQL, Machine Learning, Agile Methodologies",41,64
+33,45742,Columbus,6.8,3716,"Python, SQL, Customer Service, Data Analysis",29,79
+34,45161,Washington,7.5,2534,"Machine Learning, Customer Service",32,47
+35,45750,New York,11.2,1331,"Machine Learning, Data Analysis, Sales, JavaScript",46,65
+36,45434,Dallas,11.1,476,"Cloud Computing, Machine Learning",48,57
+37,45193,Charlotte,2.5,2826,"UX/UI Design, Project Management, Sales, Data Analysis, Digital Marketing",39,34
+38,45253,Philadelphia,4.2,3353,"Customer Service, Cybersecurity, Cloud Computing, Agile Methodologies",41,84
+39,45829,San Francisco,7.9,1501,"SQL, Cybersecurity, Machine Learning, Agile Methodologies",50,62
+40,45284,San Antonio,6.1,118,"JavaScript, UX/UI Design, Cybersecurity, Data Analysis",27,35
+41,45234,New York,5.3,4412,"Data Analysis, Cybersecurity, Machine Learning, UX/UI Design",45,66
+42,45794,San Jose,2.7,3397,"Digital Marketing, Machine Learning, Cloud Computing, Agile Methodologies",27,56
+43,45399,San Jose,11.5,1660,"Machine Learning, Customer Service, Data Analysis, Agile Methodologies, Python",48,39
+44,45394,Austin,14.3,159,"Python, Digital Marketing, Project Management, Cloud Computing, Sales",27,57
+45,45586,San Francisco,10.5,4747,"Python, Sales, Data Analysis, Project Management",41,61
+46,45637,Los Angeles,5.4,961,"Agile Methodologies, UX/UI Design, Python, Cybersecurity, Customer Service",29,31
+47,45178,Denver,12.5,1240,"Cloud Computing, Cybersecurity, Python",27,53
+48,45861,Denver,7.3,4546,"Cloud Computing, JavaScript, Python",30,86
+49,45565,Austin,4.8,2590,"Sales, Data Analysis",40,55
+50,45538,Los Angeles,2.4,1069,"Digital Marketing, Project Management",32,39
+51,45328,San Jose,8.8,801,"JavaScript, Sales",44,48
+52,45575,Jacksonville,7.5,4873,"Project Management, UX/UI Design",33,84
+53,45537,Chicago,12.0,3985,"Data Analysis, JavaScript, Cybersecurity, Python",25,36
+54,45357,Houston,5.0,124,"Python, Customer Service, Cloud Computing",33,33
+55,45372,Columbus,11.8,4743,"Project Management, Agile Methodologies, Python, Cybersecurity, UX/UI Design",35,66
+56,45236,Phoenix,8.4,2699,"UX/UI Design, Python, Digital Marketing, Data Analysis",37,75
+57,45507,Indianapolis,8.8,3142,"Python, Machine Learning, Digital Marketing",38,45
+58,45426,Jacksonville,8.2,2353,"Customer Service, Digital Marketing",34,36
+59,45551,Chicago,4.4,3680,"Data Analysis, JavaScript, Project Management",45,34
+60,45585,New York,14.0,1242,"Sales, Agile Methodologies",38,35
+61,45452,Philadelphia,6.9,1879,"UX/UI Design, JavaScript, Cloud Computing, Agile Methodologies, Machine Learning",40,72
+62,45282,Washington,7.1,2931,"Customer Service, UX/UI Design, Digital Marketing",25,72
+63,45561,Columbus,10.3,2299,"SQL, Project Management, JavaScript, Sales",46,89
+64,45732,Dallas,10.3,4407,"Sales, Python",29,82
+65,45299,Chicago,14.7,3222,"Agile Methodologies, SQL, Sales, Customer Service, Digital Marketing",29,79
+66,45291,Chicago,8.7,3163,"Cloud Computing, Customer Service, Project Management, Cybersecurity",45,84
+67,45291,Los Angeles,10.0,1054,"Cybersecurity, Machine Learning, JavaScript, SQL, Data Analysis",48,54
+68,45317,San Antonio,7.2,3376,"UX/UI Design, SQL, Cloud Computing, JavaScript",26,73
+69,45830,Dallas,13.3,302,"Digital Marketing, Agile Methodologies, Customer Service, SQL, UX/UI Design",49,52
+70,45258,Chicago,9.8,1935,"Python, Sales",46,59
+71,45597,San Diego,13.7,4140,"Data Analysis, Cloud Computing, UX/UI Design, Machine Learning",46,45
+72,45419,Los Angeles,6.4,2012,"Python, Agile Methodologies, Digital Marketing, Machine Learning",28,48
+73,45464,Fort Worth,6.6,3974,"Digital Marketing, SQL, JavaScript",29,71
+74,45360,Indianapolis,5.9,4131,"JavaScript, SQL",36,53
+75,45566,Denver,11.4,1404,"Cybersecurity, Customer Service",25,39
+76,45273,Columbus,14.9,1216,"Data Analysis, Cloud Computing, UX/UI Design, JavaScript, Project Management",48,71
+77,45195,Houston,4.2,889,"Sales, Data Analysis, Digital Marketing, SQL, JavaScript",30,78
+78,45367,Dallas,7.7,284,"Cloud Computing, Digital Marketing, Agile Methodologies, Machine Learning, Sales",41,64
+79,45786,San Antonio,2.4,4337,"Data Analysis, SQL, JavaScript, Python, Cybersecurity",45,87
+80,45759,Washington,2.6,4469,"Cybersecurity, JavaScript, Customer Service, UX/UI Design, Cloud Computing",37,57
+81,45818,Charlotte,7.5,2298,"UX/UI Design, Customer Service, Sales, Cloud Computing",46,62
+82,45362,Charlotte,15.0,3203,"Data Analysis, Cybersecurity, SQL, Project Management, Sales",50,50
+83,45578,San Antonio,7.7,4373,"Data Analysis, Project Management",40,86
+84,45260,Austin,2.0,303,"Project Management, Python, Customer Service, JavaScript",30,51
+85,45198,Columbus,8.8,1163,"SQL, Customer Service",32,33
+86,45501,Dallas,14.0,4904,"UX/UI Design, Cloud Computing",43,70
+87,45280,Washington,13.6,4415,"Customer Service, Data Analysis, Cloud Computing, SQL, Digital Marketing",33,71
+88,45862,Seattle,10.6,4274,"Agile Methodologies, Project Management, Machine Learning, Customer Service",46,44
+89,45622,Los Angeles,13.5,219,"Python, Data Analysis, Project Management",38,81
+90,45453,Chicago,4.1,1122,"Customer Service, Cloud Computing",36,87
+91,45304,Seattle,6.3,829,"Project Management, JavaScript, Digital Marketing",32,34
+92,45236,Denver,7.5,4026,"Project Management, Digital Marketing",38,56
+93,45521,Charlotte,5.0,1280,"Cloud Computing, Sales, Project Management, Customer Service",49,86
+94,45145,Seattle,13.7,4251,"Cybersecurity, SQL, UX/UI Design",47,35
+95,45351,Seattle,10.2,2029,"JavaScript, Agile Methodologies",40,55
+96,45846,Dallas,6.2,1032,"Cloud Computing, Sales, Machine Learning",37,90
+97,45323,San Diego,11.8,348,"Cybersecurity, Sales, JavaScript, Agile Methodologies, UX/UI Design",39,34
+98,45537,Jacksonville,13.6,3087,"SQL, Machine Learning, Python, Project Management, Sales",25,37
+99,45237,Chicago,2.4,1109,"Project Management, Python, Agile Methodologies",39,62
+100,45211,Fort Worth,5.0,1116,"JavaScript, Sales, Cybersecurity, Cloud Computing",25,68
+101,45756,Washington,7.0,3567,"Project Management, UX/UI Design, JavaScript, Customer Service",37,38
+102,45858,Dallas,10.8,2858,"Cloud Computing, Agile Methodologies, Python",40,35
+103,45783,Washington,14.3,3423,"Project Management, Data Analysis, Customer Service, JavaScript",45,77
+104,45471,Chicago,9.3,4342,"Agile Methodologies, Project Management, UX/UI Design",43,66
+105,45266,San Diego,10.0,1100,"Cybersecurity, Customer Service, Sales, JavaScript",38,62
+106,45390,Jacksonville,8.4,1929,"Cloud Computing, Agile Methodologies, Project Management, Data Analysis, Digital Marketing",41,71
+107,45203,Houston,4.4,4011,"Cloud Computing, SQL, Python, Project Management",48,42
+108,45619,Dallas,5.6,829,"JavaScript, Machine Learning, Digital Marketing, Customer Service",42,71
+109,45272,Fort Worth,14.5,3794,"Cybersecurity, Python",39,33
+110,45173,San Francisco,7.3,2200,"Cloud Computing, Sales",38,61
+111,45442,Jacksonville,8.0,2604,"Data Analysis, Agile Methodologies, Cybersecurity, JavaScript, Sales",45,70
+112,45261,Indianapolis,5.5,1182,"UX/UI Design, Digital Marketing, SQL, Python",43,66
+113,45537,Charlotte,5.6,3238,"Project Management, Customer Service, JavaScript, Data Analysis, Machine Learning",33,69
+114,45160,New York,3.1,1460,"JavaScript, Agile Methodologies, Data Analysis",25,73
+115,45279,Columbus,11.2,2325,"JavaScript, Sales, Customer Service",28,66
+116,45304,San Francisco,9.2,1592,"Agile Methodologies, Cybersecurity, Data Analysis",49,67
+117,45329,Austin,4.7,4884,"Customer Service, SQL, Agile Methodologies, UX/UI Design",29,70
+118,45845,Philadelphia,10.9,1041,"Python, Project Management, Machine Learning",45,57
+119,45805,Denver,4.3,843,"Customer Service, Cloud Computing, Machine Learning, JavaScript",49,65
+120,45172,Los Angeles,7.7,2318,"Machine Learning, UX/UI Design, Project Management, Python",40,86
+121,45255,Washington,13.9,3083,"UX/UI Design, Machine Learning, Python, Sales, Agile Methodologies",25,41
+122,45653,Indianapolis,9.0,3927,"JavaScript, Sales, Python, SQL, Customer Service",38,63
+123,45312,Chicago,7.7,4495,"Cloud Computing, Digital Marketing, Sales, Cybersecurity",30,66
+124,45820,Phoenix,4.5,4281,"Cloud Computing, Agile Methodologies, UX/UI Design, Python",28,67
+125,45857,Los Angeles,10.8,4477,"JavaScript, Sales, Project Management, Digital Marketing",50,79
+126,45438,Washington,12.2,2980,"Cloud Computing, Digital Marketing, JavaScript",35,61
+127,45223,Houston,7.4,2322,"UX/UI Design, Agile Methodologies",48,43
+128,45739,Denver,10.7,3762,"JavaScript, SQL",33,37
+129,45401,Chicago,11.9,3945,"Project Management, Machine Learning, Agile Methodologies",48,43
+130,45512,Philadelphia,10.5,2145,"UX/UI Design, Customer Service",37,51
+131,45473,Indianapolis,10.2,79,"Agile Methodologies, Customer Service, UX/UI Design",49,66
+132,45805,San Jose,2.3,4197,"Python, Customer Service",36,73
+133,45570,Fort Worth,2.8,4464,"Customer Service, Python, Cybersecurity, Sales",44,55
+134,45179,San Antonio,10.3,1355,"JavaScript, UX/UI Design, Digital Marketing",43,76
+135,45736,Austin,14.3,3838,"Digital Marketing, Customer Service, Cloud Computing, Project Management, Machine Learning",47,44
+136,45324,San Diego,10.3,1498,"SQL, Digital Marketing, Project Management, Cloud Computing, Customer Service",33,31
+137,45731,San Francisco,2.3,370,"Sales, UX/UI Design",45,88
+138,45373,Los Angeles,4.6,871,"Data Analysis, SQL",49,74
+139,45216,San Francisco,13.0,2235,"Agile Methodologies, Customer Service, JavaScript, Data Analysis",27,63
+140,45647,Columbus,10.9,926,"JavaScript, SQL",25,67
+141,45241,Fort Worth,12.9,708,"JavaScript, UX/UI Design, Data Analysis, Cloud Computing, Python",27,31
+142,45440,Columbus,13.1,753,"Python, Cloud Computing, Agile Methodologies",39,73
+143,45472,Washington,5.9,2943,"Machine Learning, Data Analysis, Project Management, UX/UI Design, Cloud Computing",42,58
+144,45139,Denver,11.8,500,"Customer Service, Python, Project Management, Machine Learning, UX/UI Design",28,54
+145,45305,Los Angeles,12.4,501,"Customer Service, Cloud Computing",50,75
+146,45673,Austin,6.0,2169,"UX/UI Design, SQL, Project Management, JavaScript, Cloud Computing",43,47
+147,45338,Chicago,7.2,4331,"Project Management, Cybersecurity, JavaScript, Customer Service",38,57
+148,45413,San Antonio,12.9,3867,"Customer Service, Agile Methodologies, Data Analysis",43,33
+149,45303,Chicago,4.9,2489,"Cloud Computing, Customer Service, Machine Learning, Cybersecurity, Agile Methodologies",42,48
+150,45638,San Jose,7.9,354,"Digital Marketing, UX/UI Design, Cloud Computing, SQL",26,86
+151,45753,Jacksonville,13.3,4075,"Customer Service, Cloud Computing, SQL, Python, Cybersecurity",45,34
+152,45701,Chicago,13.0,882,"Customer Service, SQL",35,72
+153,45760,San Diego,7.1,3760,"Agile Methodologies, Machine Learning",36,59
+154,45320,San Diego,2.2,4421,"Customer Service, SQL, UX/UI Design, Data Analysis",30,57
+155,45666,Philadelphia,11.0,2967,"Project Management, Digital Marketing, Customer Service",42,80
+156,45599,San Jose,7.4,421,"Data Analysis, Project Management, Python, Machine Learning",38,57
+157,45492,Austin,10.6,3341,"Cloud Computing, Python, Sales, JavaScript, Agile Methodologies",42,89
+158,45305,San Diego,13.1,1159,"Agile Methodologies, SQL, Cloud Computing, Sales, Data Analysis",38,81
+159,45772,San Jose,8.3,3670,"Python, Sales, Cybersecurity, Data Analysis, Digital Marketing",34,57
+160,45465,Columbus,12.2,3466,"SQL, Python, Cybersecurity, Digital Marketing, Cloud Computing",25,40
+161,45791,Houston,3.9,1654,"Agile Methodologies, SQL, Sales, Cloud Computing, Data Analysis",36,47
+162,45206,Fort Worth,4.6,4556,"Customer Service, Sales, SQL",38,86
+163,45845,Washington,6.0,2094,"Python, Cybersecurity, Sales, Agile Methodologies",27,34
+164,45406,San Antonio,11.1,3857,"UX/UI Design, Cloud Computing, Python, Cybersecurity",25,89
+165,45789,Phoenix,2.5,3570,"Project Management, Cloud Computing, Sales, Agile Methodologies, Python",26,73
+166,45429,Chicago,2.2,4742,"UX/UI Design, Digital Marketing, Python, Sales",25,63
+167,45478,Phoenix,3.3,2933,"Agile Methodologies, Project Management",44,53
+168,45417,Seattle,11.5,3589,"Agile Methodologies, SQL",31,59
+169,45511,Chicago,2.9,4451,"Cybersecurity, Cloud Computing, Machine Learning, Python",43,67
+170,45532,Jacksonville,8.9,4845,"Cloud Computing, Digital Marketing, Sales, SQL, Project Management",39,49
+171,45808,Indianapolis,10.9,3157,"Cybersecurity, Sales, Data Analysis",27,30
+172,45709,Seattle,10.6,3199,"SQL, Project Management",42,74
+173,45376,San Jose,11.5,395,"Sales, UX/UI Design, Data Analysis, Agile Methodologies",43,56
+174,45502,Phoenix,3.9,2535,"Digital Marketing, Project Management",47,65
+175,45574,San Jose,7.5,2917,"Digital Marketing, Agile Methodologies",39,81
+176,45772,Washington,11.1,60,"SQL, Project Management",26,54
+177,45282,Jacksonville,11.4,3795,"Agile Methodologies, Customer Service, Project Management",33,54
+178,45762,Columbus,3.9,1771,"UX/UI Design, Cloud Computing, Customer Service, Sales",34,83
+179,45748,Denver,11.4,309,"Data Analysis, Cybersecurity, Python",42,57
+180,45177,Dallas,14.0,1889,"Sales, Customer Service, Project Management, UX/UI Design",44,51
+181,45361,Austin,5.1,4997,"Cloud Computing, Project Management, SQL, UX/UI Design, JavaScript",43,31
+182,45476,Dallas,5.1,1337,"Cloud Computing, Customer Service, Machine Learning, JavaScript, Cybersecurity",43,84
+183,45791,Washington,2.2,4719,"Agile Methodologies, Cloud Computing, Customer Service, JavaScript",46,32
+184,45313,Los Angeles,8.9,1796,"Agile Methodologies, Python, Customer Service, Machine Learning, Cloud Computing",34,87
+185,45369,Phoenix,10.4,3549,"Cybersecurity, JavaScript, Cloud Computing, Machine Learning",49,62
+186,45179,Dallas,6.6,1621,"Agile Methodologies, JavaScript, Customer Service",48,40
+187,45214,Dallas,9.5,4426,"Cloud Computing, Agile Methodologies, Digital Marketing, Data Analysis, JavaScript",29,78
+188,45170,Houston,5.7,3963,"Customer Service, Agile Methodologies, Cybersecurity, UX/UI Design",25,48
+189,45481,Seattle,6.3,3509,"Cloud Computing, UX/UI Design, Machine Learning, Sales",40,51
+190,45465,Dallas,12.9,502,"Cloud Computing, Data Analysis, UX/UI Design",50,35
+191,45839,Seattle,9.4,3838,"Agile Methodologies, SQL, Cybersecurity, Python",46,68
+192,45340,Jacksonville,12.8,199,"Machine Learning, SQL, Data Analysis",45,33
+193,45631,New York,3.2,4809,"Python, JavaScript",31,90
+194,45185,Fort Worth,4.9,164,"Data Analysis, SQL, JavaScript, Machine Learning",50,40
+195,45490,San Antonio,10.7,3186,"JavaScript, Cybersecurity, Cloud Computing, Data Analysis",48,51
+196,45709,Charlotte,12.8,3846,"JavaScript, Cloud Computing, Agile Methodologies, Customer Service, Digital Marketing",29,88
+197,45648,San Jose,7.6,3388,"Cybersecurity, Digital Marketing",50,58
+198,45287,Los Angeles,13.7,3091,"Cloud Computing, Agile Methodologies",42,60
+199,45513,Phoenix,6.3,1395,"JavaScript, Cybersecurity, Python, Sales",50,81
+200,45252,Seattle,14.0,483,"Customer Service, Data Analysis, Machine Learning, Digital Marketing",40,65
+201,45215,San Antonio,11.3,3137,"JavaScript, Sales, Customer Service, Cloud Computing, Project Management",48,44
+202,45603,Washington,14.6,2512,"Customer Service, Digital Marketing, Cybersecurity, Project Management",50,34
+203,45813,Philadelphia,13.6,552,"JavaScript, Cloud Computing",30,77
+204,45456,Houston,12.7,802,"Project Management, Digital Marketing, Cybersecurity",29,43
+205,45474,Phoenix,9.4,2020,"Data Analysis, Sales, Python, Digital Marketing, SQL",33,62
+206,45552,San Francisco,4.0,2207,"JavaScript, Agile Methodologies, Machine Learning, Digital Marketing",29,83
+207,45736,San Antonio,14.6,3118,"Customer Service, Agile Methodologies, UX/UI Design",46,76
+208,45514,Charlotte,4.0,3385,"Python, Machine Learning, SQL, Agile Methodologies",34,74
+209,45744,Dallas,14.2,1599,"Customer Service, Python, SQL, Agile Methodologies",39,72
+210,45213,San Antonio,14.1,947,"Digital Marketing, Data Analysis, UX/UI Design, Python, Machine Learning",40,43
+211,45331,San Diego,7.1,3401,"Python, Customer Service, Digital Marketing, Agile Methodologies, UX/UI Design",31,47
+212,45464,San Francisco,7.6,4668,"Sales, JavaScript",49,41
+213,45620,Phoenix,9.5,1862,"Cloud Computing, UX/UI Design",34,85
+214,45269,Jacksonville,11.3,3953,"Agile Methodologies, SQL, Cybersecurity, Python",26,54
+215,45296,Columbus,4.0,1230,"Sales, Machine Learning",30,45
+216,45688,Indianapolis,14.5,3272,"Digital Marketing, Data Analysis",34,72
+217,45296,Phoenix,6.1,3235,"Cybersecurity, Customer Service, Data Analysis",26,43
+218,45297,San Antonio,10.5,2547,"Python, JavaScript, Sales, Agile Methodologies, Machine Learning",31,36
+219,45274,Philadelphia,9.4,2210,"Cloud Computing, UX/UI Design, Project Management",32,83
+220,45142,San Antonio,9.1,1103,"UX/UI Design, SQL, Cybersecurity, Data Analysis",35,57
+221,45191,Houston,7.2,2216,"Data Analysis, Project Management, Customer Service, SQL, Python",48,57
+222,45653,Jacksonville,11.4,1519,"Sales, Machine Learning, Python",46,37
+223,45346,Fort Worth,3.2,106,"UX/UI Design, Cloud Computing, Project Management, SQL",25,65
+224,45792,San Antonio,14.1,3225,"Agile Methodologies, Python, Sales, Digital Marketing",29,84
+225,45693,Phoenix,11.4,1152,"Sales, Data Analysis, Cloud Computing, Python",47,76
+226,45387,Philadelphia,3.6,3819,"Cybersecurity, Digital Marketing",44,59
+227,45630,Philadelphia,8.5,1802,"Machine Learning, SQL, UX/UI Design",26,80
+228,45527,Columbus,2.1,3606,"Machine Learning, Cybersecurity",25,82
+229,45174,Washington,4.0,1812,"Project Management, Agile Methodologies, Cloud Computing",28,40
+230,45503,San Diego,11.4,3719,"Customer Service, Python, Agile Methodologies, JavaScript, UX/UI Design",37,51
+231,45531,Fort Worth,13.9,2805,"Cloud Computing, UX/UI Design, Sales, Cybersecurity",45,45
+232,45198,New York,4.6,603,"Python, Sales, Project Management, SQL, Agile Methodologies",39,75
+233,45172,New York,9.0,1928,"Python, Customer Service",39,73
+234,45493,San Jose,11.4,1003,"Project Management, Cloud Computing, Digital Marketing, Machine Learning",30,80
+235,45314,Charlotte,8.0,1272,"Sales, UX/UI Design, Machine Learning",41,77
+236,45162,Indianapolis,9.3,2540,"Python, Digital Marketing, JavaScript",32,47
+237,45760,Jacksonville,5.5,2056,"Machine Learning, JavaScript",50,42
+238,45715,Chicago,7.9,2357,"Data Analysis, UX/UI Design, Cloud Computing, JavaScript",29,64
+239,45278,San Francisco,13.3,1589,"Agile Methodologies, Python, Project Management, Cloud Computing",39,54
+240,45601,Seattle,4.4,735,"Cloud Computing, Python",27,59
+241,45818,San Francisco,12.4,3254,"UX/UI Design, Data Analysis, Sales",41,52
+242,45256,Los Angeles,8.4,708,"Agile Methodologies, Machine Learning",37,40
+243,45548,Austin,2.7,1734,"Machine Learning, Customer Service, Agile Methodologies",37,79
+244,45657,Seattle,13.1,682,"Python, Customer Service, Data Analysis, JavaScript, Cybersecurity",38,44
+245,45461,Columbus,5.0,126,"Machine Learning, Project Management",44,45
+246,45703,Washington,3.2,1326,"Project Management, Data Analysis, Digital Marketing, SQL, Machine Learning",36,37
+247,45574,Fort Worth,12.2,4537,"SQL, Cloud Computing",40,47
+248,45460,San Diego,15.0,813,"Digital Marketing, Machine Learning, Agile Methodologies, Python, JavaScript",29,80
+249,45643,Dallas,4.1,1647,"Machine Learning, Digital Marketing, Customer Service, SQL, Python",37,81
+250,45703,Dallas,10.5,128,"Python, SQL",25,34
+251,45590,Indianapolis,3.3,3921,"Python, Cloud Computing, Agile Methodologies, Digital Marketing",47,74
+252,45610,Los Angeles,7.2,2206,"Customer Service, Data Analysis",49,49
+253,45610,Indianapolis,9.3,574,"Project Management, Sales",44,59
+254,45710,San Jose,2.4,3301,"UX/UI Design, JavaScript, Digital Marketing, Cybersecurity, Python",45,52
+255,45225,Phoenix,14.5,1011,"SQL, Project Management, Python",26,43
+256,45724,Philadelphia,11.4,1976,"Machine Learning, Cybersecurity",43,87
+257,45836,Jacksonville,8.9,3332,"Customer Service, Sales",29,41
+258,45693,Chicago,14.8,1899,"Customer Service, SQL",32,49
+259,45575,Los Angeles,12.6,1740,"Cybersecurity, SQL, JavaScript",50,83
+260,45146,San Antonio,4.6,445,"Machine Learning, Project Management, Sales, Data Analysis, Agile Methodologies",43,54
+261,45680,Austin,7.2,3856,"UX/UI Design, Project Management, Cloud Computing, Machine Learning, Sales",36,41
+262,45457,Los Angeles,10.9,2318,"Cloud Computing, Project Management, Sales",30,69
+263,45257,San Francisco,9.2,542,"SQL, Digital Marketing",49,72
+264,45448,New York,9.2,1557,"Cloud Computing, Customer Service, Cybersecurity, UX/UI Design",49,45
+265,45462,Los Angeles,7.6,1699,"Project Management, Cybersecurity, Python, Sales",32,71
+266,45312,Chicago,11.7,1493,"Customer Service, Python",48,90
+267,45338,San Antonio,13.5,4826,"Project Management, SQL",44,87
+268,45810,Chicago,7.0,3944,"Cybersecurity, Machine Learning, Python",46,43
+269,45239,San Francisco,9.5,272,"Machine Learning, Sales",25,58
+270,45858,Seattle,9.8,663,"Cloud Computing, SQL, Cybersecurity, Customer Service",47,39
+271,45602,Dallas,3.5,3243,"Cybersecurity, UX/UI Design, JavaScript",30,54
+272,45394,Columbus,11.9,4500,"Digital Marketing, Customer Service, Data Analysis, UX/UI Design",35,72
+273,45754,Phoenix,5.7,1072,"Cloud Computing, Agile Methodologies",27,63
+274,45475,Indianapolis,2.7,455,"Digital Marketing, Machine Learning, Data Analysis, Python, Sales",49,69
+275,45638,Fort Worth,11.3,2753,"JavaScript, SQL, Project Management",48,88
+276,45736,Phoenix,9.7,1016,"Cybersecurity, Sales, JavaScript, Data Analysis, Project Management",33,48
+277,45378,Fort Worth,4.6,4881,"Cybersecurity, JavaScript, Sales, Agile Methodologies, Python",48,56
+278,45141,Charlotte,8.5,457,"SQL, Sales, Machine Learning, Python",49,49
+279,45342,Charlotte,12.2,2889,"Python, Cybersecurity, Customer Service",49,58
+280,45507,Jacksonville,15.0,2912,"Cloud Computing, Digital Marketing, Data Analysis",44,58
+281,45291,Columbus,13.0,3596,"Cybersecurity, Digital Marketing",38,44
+282,45427,Jacksonville,6.8,2746,"Agile Methodologies, Project Management, Machine Learning, Customer Service, Digital Marketing",47,36
+283,45419,San Antonio,2.1,1750,"SQL, UX/UI Design, Cloud Computing",26,60
+284,45309,New York,6.7,3423,"SQL, Data Analysis",49,42
+285,45457,Washington,8.8,3102,"Machine Learning, UX/UI Design, Agile Methodologies",39,67
+286,45786,Chicago,11.8,186,"Customer Service, JavaScript",30,78
+287,45652,Seattle,12.0,4464,"Cloud Computing, Customer Service, Machine Learning, Cybersecurity",49,63
+288,45148,Charlotte,13.9,3872,"Agile Methodologies, Data Analysis",44,61
+289,45383,Houston,8.8,4437,"Cybersecurity, JavaScript",38,55
+290,45147,San Francisco,3.7,2384,"Digital Marketing, Agile Methodologies, JavaScript, Sales, Cloud Computing",50,31
+291,45662,San Francisco,11.0,4948,"Agile Methodologies, Customer Service, Data Analysis, SQL, Python",42,59
+292,45405,Seattle,7.7,1518,"Project Management, Machine Learning, Agile Methodologies, Customer Service",39,42
+293,45225,Charlotte,10.2,1168,"JavaScript, Machine Learning, Sales, Project Management, Customer Service",25,90
+294,45846,New York,4.2,485,"JavaScript, Customer Service",32,75
+295,45185,Washington,7.5,4376,"SQL, JavaScript",49,86
+296,45628,Chicago,4.5,1412,"UX/UI Design, JavaScript, SQL, Customer Service",29,86
+297,45556,San Diego,11.4,4129,"UX/UI Design, Python, Agile Methodologies, Customer Service, Project Management",27,69
+298,45138,Los Angeles,9.0,2500,"Cybersecurity, UX/UI Design, JavaScript",31,78
+299,45498,Chicago,7.1,4290,"JavaScript, Machine Learning, Agile Methodologies, Data Analysis",49,74
+300,45308,Houston,10.5,3920,"SQL, Cybersecurity, Python, UX/UI Design",40,69
+301,45623,Washington,4.4,3974,"JavaScript, Sales, UX/UI Design, Digital Marketing, Data Analysis",40,77
+302,45208,Philadelphia,9.2,2271,"Python, Machine Learning, Project Management, SQL",28,34
+303,45773,Chicago,4.8,1798,"Project Management, UX/UI Design, Machine Learning, Data Analysis",50,35
+304,45643,Indianapolis,2.8,4645,"Cybersecurity, Digital Marketing, Cloud Computing, Customer Service",29,37
+305,45379,Seattle,4.5,2804,"Customer Service, JavaScript, Data Analysis, UX/UI Design, Cloud Computing",30,50
+306,45215,Fort Worth,13.6,1756,"Sales, UX/UI Design, Machine Learning, Python, SQL",25,71
+307,45626,Jacksonville,13.5,1421,"UX/UI Design, Agile Methodologies",28,78
+308,45315,Jacksonville,11.7,1930,"Data Analysis, Digital Marketing, Sales",48,54
+309,45620,Indianapolis,6.8,2663,"Project Management, Data Analysis, Digital Marketing",34,31
+310,45260,Philadelphia,13.6,4490,"Cloud Computing, Machine Learning, Project Management",33,41
+311,45822,San Antonio,3.0,2626,"Project Management, Python, Agile Methodologies, UX/UI Design",27,85
+312,45156,San Diego,13.6,4752,"Data Analysis, Agile Methodologies, Project Management, Digital Marketing",33,69
+313,45362,Austin,14.8,1585,"Cybersecurity, Agile Methodologies, JavaScript, Customer Service, Cloud Computing",47,62
+314,45285,San Antonio,3.9,2276,"Digital Marketing, Machine Learning, Customer Service",38,60
+315,45781,Chicago,9.9,4477,"Machine Learning, Digital Marketing",36,41
+316,45712,Philadelphia,2.9,2300,"Python, UX/UI Design, Sales, Data Analysis",28,72
+317,45485,Dallas,11.5,2952,"JavaScript, Cybersecurity, Machine Learning, Project Management, Python",27,82
+318,45431,Phoenix,10.1,4353,"Machine Learning, Customer Service",50,89
+319,45238,Jacksonville,11.8,1213,"UX/UI Design, SQL, Digital Marketing",40,62
+320,45507,Austin,11.4,3546,"Sales, Python, Digital Marketing",40,44
+321,45501,Washington,12.2,869,"Data Analysis, UX/UI Design, Cybersecurity",42,35
+322,45753,San Jose,4.2,4434,"Customer Service, Agile Methodologies, Digital Marketing, Python, Data Analysis",34,86
+323,45431,Fort Worth,11.5,1405,"Python, Data Analysis, UX/UI Design, Agile Methodologies, Sales",31,61
+324,45446,San Francisco,15.0,1947,"Python, Customer Service, SQL, Data Analysis, Cybersecurity",32,60
+325,45769,Charlotte,7.3,2509,"Data Analysis, SQL, UX/UI Design, Project Management",27,79
+326,45198,San Jose,14.6,4239,"Cloud Computing, Cybersecurity, JavaScript, Machine Learning",37,36
+327,45196,Houston,12.1,3778,"Data Analysis, Customer Service",40,37
+328,45409,Charlotte,10.7,1246,"Project Management, UX/UI Design, Data Analysis, Machine Learning, Agile Methodologies",26,75
+329,45739,Jacksonville,10.5,4793,"JavaScript, Agile Methodologies, UX/UI Design, Machine Learning, Project Management",47,86
+330,45503,San Diego,13.9,2954,"Digital Marketing, SQL, Cybersecurity, Customer Service, Python",38,68
+331,45292,Charlotte,8.4,1515,"UX/UI Design, Project Management, JavaScript",26,40
+332,45601,Washington,5.4,770,"Project Management, Machine Learning, Data Analysis, Customer Service",26,61
+333,45826,New York,10.1,3101,"Project Management, Cybersecurity, Agile Methodologies",39,63
+334,45378,Chicago,10.5,2982,"Digital Marketing, Cybersecurity, SQL, Project Management",41,84
+335,45645,Denver,12.5,4232,"SQL, Sales",33,71
+336,45222,Columbus,9.2,1836,"Python, Digital Marketing, Cybersecurity",41,64
+337,45195,Denver,6.0,4299,"JavaScript, Project Management, Sales",44,51
+338,45791,Seattle,6.2,4495,"Project Management, Agile Methodologies, Cybersecurity",35,71
+339,45801,Denver,10.1,4848,"JavaScript, Project Management, UX/UI Design, SQL, Machine Learning",33,55
+340,45687,Los Angeles,13.6,2103,"Agile Methodologies, Project Management",47,47
+341,45240,Columbus,9.8,2980,"UX/UI Design, Customer Service",43,83
+342,45849,Jacksonville,8.0,2480,"UX/UI Design, Machine Learning",49,76
+343,45549,Phoenix,7.5,128,"Cybersecurity, Digital Marketing",34,35
+344,45265,Dallas,5.1,720,"Project Management, Machine Learning",49,47
+345,45268,San Jose,12.2,2287,"Data Analysis, Customer Service, Python",35,44
+346,45241,Indianapolis,13.0,2474,"UX/UI Design, Machine Learning, Agile Methodologies",25,65
+347,45829,Charlotte,7.0,3395,"Digital Marketing, Cybersecurity",48,86
+348,45615,Jacksonville,6.3,148,"Cybersecurity, Sales, Machine Learning, Data Analysis",50,83
+349,45607,San Jose,14.1,2098,"Agile Methodologies, SQL, Sales",46,75
+350,45663,Phoenix,10.1,101,"Cloud Computing, Python, JavaScript, Sales, Cybersecurity",33,32
+351,45470,Los Angeles,14.4,4716,"Sales, Cloud Computing, Python, Data Analysis, SQL",42,70
+352,45699,Denver,4.5,699,"Agile Methodologies, Sales, Python",28,55
+353,45849,Phoenix,7.0,1602,"Agile Methodologies, JavaScript, SQL",27,66
+354,45621,San Francisco,14.5,611,"Digital Marketing, Data Analysis, UX/UI Design, Cloud Computing, Customer Service",50,48
+355,45591,Washington,10.4,1310,"SQL, Digital Marketing, Project Management",30,58
+356,45461,San Antonio,3.5,1330,"Project Management, Sales, Machine Learning, Customer Service",38,60
+357,45633,San Francisco,12.8,3489,"Cloud Computing, Machine Learning, Customer Service, Digital Marketing",46,41
+358,45305,Dallas,3.3,2621,"UX/UI Design, Sales, Agile Methodologies, Project Management, SQL",27,34
+359,45602,Chicago,14.1,762,"Customer Service, Cybersecurity, UX/UI Design",41,32
+360,45163,San Diego,13.1,544,"Cybersecurity, Project Management, Cloud Computing, SQL",39,47
+361,45802,Dallas,2.9,2390,"Sales, Python, Digital Marketing, Data Analysis",48,80
+362,45417,Seattle,6.9,2334,"Data Analysis, Python",29,88
+363,45824,Chicago,4.3,1112,"SQL, Machine Learning, Data Analysis, Python, Sales",32,47
+364,45189,Washington,2.3,1370,"SQL, UX/UI Design, Digital Marketing, Cloud Computing",38,45
+365,45609,San Antonio,2.7,4678,"SQL, UX/UI Design, JavaScript, Cloud Computing",36,55
+366,45347,Indianapolis,4.1,3175,"Cybersecurity, Sales",35,36
+367,45323,Houston,8.7,4604,"Python, Sales, Machine Learning, Customer Service",50,41
+368,45502,Denver,4.1,2051,"JavaScript, Project Management, Cloud Computing, Python",25,36
+369,45214,San Antonio,6.9,2943,"Project Management, Digital Marketing",50,45
+370,45715,San Jose,2.7,1626,"Python, Sales, Agile Methodologies, Cloud Computing",33,84
+371,45163,Dallas,12.6,3489,"Data Analysis, JavaScript, SQL, Customer Service, Sales",50,45
+372,45784,San Antonio,4.6,1320,"Customer Service, Project Management",44,74
+373,45244,Fort Worth,8.4,1512,"Sales, Project Management, Agile Methodologies, Cybersecurity, Digital Marketing",45,66
+374,45328,Seattle,3.5,1331,"Machine Learning, Data Analysis, JavaScript, Customer Service",31,50
+375,45690,Fort Worth,13.8,1558,"Data Analysis, SQL, Customer Service",36,45
+376,45792,Denver,9.8,404,"Agile Methodologies, Digital Marketing, Project Management, Python, JavaScript",33,31
+377,45618,Phoenix,4.7,4441,"Python, Machine Learning, Data Analysis",37,40
+378,45264,Seattle,9.6,911,"SQL, Sales, Customer Service, Project Management",36,47
+379,45344,Phoenix,9.0,2843,"Digital Marketing, Sales",49,89
+380,45201,Houston,11.5,2272,"Agile Methodologies, Digital Marketing",40,45
+381,45816,Columbus,4.2,2951,"JavaScript, UX/UI Design, SQL, Sales",33,76
+382,45664,Philadelphia,5.1,1671,"SQL, UX/UI Design, Python",34,75
+383,45590,Indianapolis,10.5,1605,"Python, Machine Learning",35,90
+384,45780,San Jose,2.9,514,"Cloud Computing, Data Analysis, Project Management, Machine Learning, SQL",29,90
+385,45521,Denver,14.0,4809,"Machine Learning, Cloud Computing, JavaScript, SQL, Project Management",28,42
+386,45785,Charlotte,13.2,2731,"Machine Learning, SQL, Cloud Computing",29,59
+387,45579,Houston,14.1,524,"SQL, JavaScript",45,48
+388,45260,Washington,10.4,4883,"Sales, Cloud Computing, Customer Service, Agile Methodologies",25,58
+389,45714,Philadelphia,10.5,1371,"UX/UI Design, Sales, Digital Marketing, Project Management, Cloud Computing",44,71
+390,45579,Columbus,12.1,3286,"JavaScript, Python, Sales, Customer Service",35,35
+391,45472,Charlotte,6.0,456,"Data Analysis, Machine Learning, Customer Service",47,89
+392,45147,Jacksonville,14.1,1891,"Sales, Agile Methodologies, Data Analysis, Project Management",41,54
+393,45479,Washington,6.8,4577,"UX/UI Design, Data Analysis",50,45
+394,45231,Houston,3.7,776,"Cloud Computing, Sales",37,59
+395,45491,Fort Worth,5.5,1226,"Customer Service, Cloud Computing, UX/UI Design, Machine Learning, Digital Marketing",38,39
+396,45440,Indianapolis,12.7,440,"Digital Marketing, JavaScript, Cloud Computing",32,39
+397,45693,Austin,11.6,1931,"Cybersecurity, Customer Service",41,58
+398,45241,Seattle,4.7,910,"Digital Marketing, Customer Service, Python, UX/UI Design",31,31
+399,45862,Philadelphia,3.8,1736,"Cybersecurity, Agile Methodologies",31,59
+400,45759,San Francisco,12.2,4163,"Cloud Computing, Agile Methodologies, Digital Marketing",36,72
+401,45151,Chicago,2.9,532,"Customer Service, JavaScript, Digital Marketing, Agile Methodologies",34,85
+402,45527,New York,12.6,809,"Digital Marketing, Sales, Agile Methodologies",45,47
+403,45783,Houston,8.7,4713,"UX/UI Design, Machine Learning, Project Management, Python, Cloud Computing",47,90
+404,45795,Fort Worth,9.3,1578,"Python, Data Analysis, Sales, UX/UI Design",40,81
+405,45832,Dallas,2.4,4427,"Sales, JavaScript, Cybersecurity",42,89
+406,45789,Austin,10.1,2776,"JavaScript, Digital Marketing, Machine Learning, Python",27,80
+407,45623,Columbus,5.4,2013,"Sales, JavaScript, Cybersecurity, UX/UI Design, Project Management",27,68
+408,45464,San Diego,8.7,4552,"Cloud Computing, Machine Learning, Digital Marketing",50,89
+409,45183,Denver,11.0,2795,"Python, Cloud Computing, Cybersecurity, SQL, Sales",46,54
+410,45265,Washington,11.3,4538,"Agile Methodologies, UX/UI Design, Sales, Machine Learning",37,66
+411,45211,Columbus,8.2,650,"Customer Service, Sales, Data Analysis, Python",32,74
+412,45599,Charlotte,12.1,4188,"Cloud Computing, Digital Marketing, Customer Service, Agile Methodologies, Cybersecurity",33,39
+413,45769,Seattle,9.9,4028,"UX/UI Design, Project Management, Python, Digital Marketing",31,89
+414,45179,Columbus,13.1,1339,"Customer Service, JavaScript, Project Management",27,88
+415,45629,Washington,2.6,2684,"SQL, Cloud Computing",47,33
+416,45678,Phoenix,5.8,1221,"Machine Learning, Python, UX/UI Design, Cloud Computing, Project Management",45,70
+417,45445,San Antonio,6.5,4619,"Sales, JavaScript, Machine Learning",38,71
+418,45152,Houston,3.2,447,"Project Management, Customer Service",41,38
+419,45691,San Jose,5.8,1354,"Machine Learning, Python, Cybersecurity, UX/UI Design, Customer Service",31,42
+420,45318,Charlotte,13.3,4686,"Python, Sales, Machine Learning, SQL",43,30
+421,45863,Philadelphia,10.2,4434,"Machine Learning, Digital Marketing",44,79
+422,45196,Washington,11.5,3288,"Cloud Computing, Project Management, UX/UI Design, SQL",32,74
+423,45672,Los Angeles,9.4,1094,"Digital Marketing, SQL, Cybersecurity, Data Analysis, Python",44,34
+424,45597,Denver,9.0,1995,"UX/UI Design, Data Analysis, Cybersecurity, JavaScript",31,37
+425,45286,San Jose,7.1,2568,"Sales, Agile Methodologies, SQL, Machine Learning, Customer Service",42,51
+426,45424,Denver,2.3,582,"Python, Cloud Computing",45,58
+427,45741,Indianapolis,7.3,1526,"Cybersecurity, Customer Service, JavaScript, Sales",26,44
+428,45255,Seattle,14.9,3534,"Cloud Computing, Agile Methodologies",28,39
+429,45522,Fort Worth,11.2,1181,"Digital Marketing, Data Analysis, UX/UI Design, Python, Customer Service",40,89
+430,45608,Seattle,6.2,2365,"Python, Sales, JavaScript, Data Analysis, UX/UI Design",48,56
+431,45325,Seattle,8.8,3385,"Python, Cloud Computing, Sales, Agile Methodologies",27,37
+432,45690,San Diego,8.1,2548,"Machine Learning, Cloud Computing, Python",34,85
+433,45267,Washington,3.0,3601,"JavaScript, Data Analysis",25,75
+434,45741,Denver,6.2,3979,"JavaScript, Python",48,81
+435,45304,Austin,12.9,3995,"Machine Learning, Digital Marketing, Agile Methodologies, Cybersecurity",41,75
+436,45813,Jacksonville,5.9,2487,"Machine Learning, Agile Methodologies, JavaScript",45,38
+437,45860,Houston,13.0,2090,"Project Management, SQL, Digital Marketing, Python, Cybersecurity",50,64
+438,45782,Dallas,13.5,3033,"Project Management, Digital Marketing, Agile Methodologies",30,66
+439,45576,Columbus,11.0,3643,"SQL, Cybersecurity, Data Analysis, Python",41,88
+440,45811,Washington,3.4,3943,"Agile Methodologies, Project Management, SQL, Data Analysis",50,71
+441,45844,Columbus,4.7,4195,"Cybersecurity, Digital Marketing, Python",28,59
+442,45388,Philadelphia,3.6,4679,"Python, Digital Marketing, Data Analysis, Cybersecurity",38,67
+443,45662,Fort Worth,5.3,407,"Agile Methodologies, UX/UI Design, Sales",33,39
+444,45837,Chicago,12.9,4177,"SQL, Python, Sales, Project Management, Cybersecurity",47,74
+445,45635,Columbus,3.5,1641,"Data Analysis, Machine Learning, Cybersecurity, Python",48,88
+446,45253,New York,8.2,3677,"Digital Marketing, Agile Methodologies, JavaScript, Cybersecurity, Sales",37,77
+447,45448,Houston,9.9,2479,"UX/UI Design, JavaScript",44,70
+448,45863,San Antonio,9.9,4074,"JavaScript, Agile Methodologies",34,78
+449,45247,Philadelphia,5.0,4045,"Digital Marketing, Data Analysis, Sales, JavaScript, Cloud Computing",47,66
+450,45774,Los Angeles,6.9,2260,"Data Analysis, Cloud Computing, Machine Learning, Digital Marketing, Project Management",29,66
+451,45619,New York,11.8,355,"Project Management, Customer Service, Digital Marketing, UX/UI Design",25,75
+452,45614,Fort Worth,14.2,2997,"Customer Service, JavaScript, Sales",27,35
+453,45571,Charlotte,7.9,797,"Sales, Cybersecurity, Data Analysis, Cloud Computing, UX/UI Design",40,63
+454,45470,Columbus,13.5,120,"Machine Learning, Agile Methodologies, Python",31,88
+455,45149,Charlotte,4.5,3292,"Python, UX/UI Design",47,35
+456,45453,San Antonio,11.7,1934,"Machine Learning, Project Management",38,88
+457,45715,Houston,8.3,4638,"Cloud Computing, Agile Methodologies",33,88
+458,45524,Fort Worth,7.2,2164,"Python, Cybersecurity",29,64
+459,45341,Chicago,9.2,3699,"Machine Learning, Agile Methodologies",26,55
+460,45203,Columbus,6.9,4171,"JavaScript, SQL, Cloud Computing",37,81
+461,45224,Chicago,12.2,4386,"Data Analysis, Python, Project Management, Cybersecurity, Cloud Computing",44,77
+462,45469,Indianapolis,4.5,1739,"Sales, UX/UI Design, Data Analysis, Machine Learning",47,65
+463,45712,San Antonio,9.3,2727,"SQL, Digital Marketing",50,53
+464,45363,Chicago,14.6,3325,"JavaScript, Data Analysis, Sales",39,50
+465,45713,Dallas,4.6,3568,"SQL, Machine Learning, Python",48,74
+466,45187,Austin,6.5,3977,"Customer Service, SQL, JavaScript, UX/UI Design, Project Management",34,79
+467,45495,Indianapolis,13.8,3892,"Sales, Customer Service, Project Management",44,60
+468,45271,Columbus,12.0,795,"Python, Cybersecurity",41,42
+469,45286,Philadelphia,2.2,4407,"Project Management, UX/UI Design",47,85
+470,45305,Los Angeles,8.7,1417,"Python, Agile Methodologies, JavaScript, SQL",33,83
+471,45567,Columbus,6.8,618,"SQL, Cybersecurity, Python, JavaScript, Data Analysis",47,81
+472,45817,Phoenix,3.8,1629,"Cloud Computing, Sales, Agile Methodologies, Machine Learning",28,30
+473,45321,San Jose,2.7,3898,"Project Management, Cybersecurity, Cloud Computing, SQL",26,70
+474,45861,New York,11.5,2204,"Digital Marketing, Customer Service, Agile Methodologies",28,52
+475,45571,San Diego,2.9,2507,"Cloud Computing, Data Analysis",26,31
+476,45242,Indianapolis,7.1,3832,"Customer Service, Agile Methodologies, Project Management",49,89
+477,45643,New York,2.7,1781,"Customer Service, UX/UI Design",28,64
+478,45653,Phoenix,4.9,3773,"Agile Methodologies, SQL",42,58
+479,45563,Washington,13.3,194,"Sales, Digital Marketing",40,39
+480,45511,Jacksonville,3.5,1454,"Digital Marketing, UX/UI Design, Project Management",33,71
+481,45754,San Jose,14.5,4644,"Python, Project Management, JavaScript",25,78
+482,45845,New York,7.9,2052,"JavaScript, Sales, Cybersecurity, Agile Methodologies, SQL",29,43
+483,45499,San Francisco,9.5,2886,"Machine Learning, Customer Service",48,66
+484,45481,Charlotte,9.1,1940,"Customer Service, Python, Data Analysis",39,69
+485,45158,Washington,8.5,463,"Cloud Computing, Project Management, Machine Learning, Sales",47,63
+486,45442,San Francisco,11.1,2466,"Cybersecurity, Sales, SQL, Customer Service",49,60
+487,45489,San Jose,5.8,4214,"UX/UI Design, Agile Methodologies, Python",30,44
+488,45223,San Jose,7.6,2958,"Customer Service, UX/UI Design",39,47
+489,45586,Philadelphia,5.9,3360,"Machine Learning, Digital Marketing, Cybersecurity",42,34
+490,45492,Phoenix,7.3,2790,"Agile Methodologies, UX/UI Design",41,45
+491,45759,New York,7.7,1106,"Project Management, Cloud Computing, Machine Learning",40,46
+492,45324,San Francisco,5.9,4265,"Python, Project Management, Agile Methodologies, Machine Learning, Customer Service",47,32
+493,45450,Washington,2.9,4142,"Data Analysis, Sales, Customer Service, Machine Learning, UX/UI Design",26,84
+494,45335,Columbus,12.6,591,"Data Analysis, Project Management, UX/UI Design, JavaScript",28,81
+495,45780,Fort Worth,8.4,4001,"Data Analysis, UX/UI Design",43,66
+496,45629,San Francisco,14.6,248,"Data Analysis, Sales, UX/UI Design, SQL",44,70
+497,45173,Los Angeles,8.3,3866,"Digital Marketing, Python, Machine Learning",49,36
+498,45422,San Francisco,9.2,3616,"UX/UI Design, Project Management, Data Analysis, Customer Service",42,77
+499,45596,Denver,14.3,3977,"Cybersecurity, Project Management, UX/UI Design",37,48
+500,45646,Jacksonville,5.3,3459,"Cloud Computing, UX/UI Design, Cybersecurity, Digital Marketing, JavaScript",41,51
+501,45388,Washington,5.9,2600,"Digital Marketing, Agile Methodologies, Project Management, Customer Service",25,67
+502,45514,Washington,9.9,2612,"Cloud Computing, Project Management, Agile Methodologies",43,30
+503,45592,Denver,8.1,1726,"Customer Service, Data Analysis, Cybersecurity",44,86
+504,45253,Columbus,10.2,2490,"UX/UI Design, Sales",25,55
+505,45505,Austin,7.5,539,"Python, Project Management",36,70
+506,45355,Charlotte,13.0,956,"Python, Data Analysis",33,43
+507,45295,Washington,3.7,3965,"Cybersecurity, Agile Methodologies",39,53
+508,45156,San Antonio,5.8,3709,"Sales, JavaScript",32,63
+509,45726,Chicago,7.6,2116,"Data Analysis, Digital Marketing, Cloud Computing",47,35
+510,45371,Phoenix,8.3,2935,"Cybersecurity, Agile Methodologies, Data Analysis, Digital Marketing",38,49
+511,45501,Indianapolis,5.3,4407,"Python, JavaScript, Digital Marketing, Customer Service",46,32
+512,45192,Denver,11.7,3699,"Customer Service, Project Management",38,59
+513,45213,Columbus,10.0,2218,"Cybersecurity, UX/UI Design",50,68
+514,45679,San Francisco,8.1,4569,"Machine Learning, Python",40,65
+515,45481,Indianapolis,4.5,3818,"Python, Cloud Computing, Customer Service, Machine Learning",47,56
+516,45336,Philadelphia,11.2,2672,"Data Analysis, Customer Service, Cybersecurity",47,58
+517,45262,Seattle,6.0,3150,"Sales, Agile Methodologies",26,56
+518,45212,San Antonio,11.6,1211,"UX/UI Design, Digital Marketing, Project Management, Cloud Computing",47,82
+519,45193,Seattle,6.0,803,"UX/UI Design, Digital Marketing",46,36
+520,45509,Phoenix,11.4,2136,"Customer Service, Cybersecurity",39,58
+521,45332,Austin,5.4,4195,"Customer Service, SQL, Agile Methodologies",40,69
+522,45615,Philadelphia,9.0,60,"Python, Cybersecurity, UX/UI Design, Sales, JavaScript",38,34
+523,45630,San Francisco,5.3,4006,"Sales, SQL, Customer Service, Python, Machine Learning",36,62
+524,45754,Phoenix,5.4,4392,"Agile Methodologies, JavaScript, UX/UI Design, SQL, Machine Learning",42,47
+525,45327,San Diego,5.3,4881,"Digital Marketing, Machine Learning, Cybersecurity",44,69
+526,45288,San Antonio,10.9,1188,"Cloud Computing, JavaScript, Agile Methodologies",48,80
+527,45191,Seattle,2.7,870,"Python, Agile Methodologies, Customer Service",35,75
+528,45335,Charlotte,2.7,1191,"Machine Learning, Agile Methodologies, Digital Marketing, Project Management, UX/UI Design",42,90
+529,45752,Phoenix,14.7,4525,"Machine Learning, Sales, Python, Customer Service, Cloud Computing",32,73
+530,45536,Denver,13.9,925,"Agile Methodologies, Customer Service, UX/UI Design, Data Analysis",50,56
+531,45381,Chicago,13.5,580,"UX/UI Design, Agile Methodologies, Project Management, Digital Marketing, JavaScript",44,74
+532,45411,Denver,5.1,467,"Cybersecurity, Sales",50,41
+533,45549,Fort Worth,12.3,292,"JavaScript, Agile Methodologies, SQL, Machine Learning, UX/UI Design",25,50
+534,45565,Washington,11.3,3732,"Agile Methodologies, Machine Learning, SQL, Sales, Cloud Computing",42,58
+535,45506,San Jose,10.3,1447,"Data Analysis, UX/UI Design, Agile Methodologies, Machine Learning, Customer Service",43,51
+536,45250,Philadelphia,14.4,1245,"Cloud Computing, Agile Methodologies, Machine Learning, Project Management",35,60
+537,45686,Indianapolis,8.4,238,"Cloud Computing, Agile Methodologies, SQL, Cybersecurity",36,47
+538,45629,Denver,4.2,4516,"Cybersecurity, Machine Learning",46,89
+539,45776,San Francisco,6.3,363,"Project Management, UX/UI Design, Python, Cybersecurity, Sales",41,45
+540,45514,Columbus,12.0,2079,"Project Management, JavaScript, Digital Marketing, Agile Methodologies",43,64
+541,45322,Jacksonville,4.1,954,"Agile Methodologies, Machine Learning",38,43
+542,45143,Los Angeles,2.7,4652,"Agile Methodologies, Project Management, SQL, Cybersecurity, Customer Service",32,66
+543,45654,Columbus,4.7,2731,"JavaScript, SQL, Data Analysis, Agile Methodologies",26,85
+544,45385,Austin,7.8,618,"Python, Data Analysis, Cybersecurity, Project Management",50,77
+545,45862,Dallas,7.6,1836,"Machine Learning, Project Management, Cloud Computing, Sales, Cybersecurity",49,79
+546,45667,New York,10.8,3627,"Data Analysis, Digital Marketing, Cloud Computing",47,86
+547,45154,Phoenix,12.5,4204,"Machine Learning, Project Management, Sales, SQL, UX/UI Design",37,62
+548,45775,New York,4.7,1403,"Sales, Cybersecurity, SQL, Cloud Computing",35,59
+549,45282,Indianapolis,12.7,2882,"Python, JavaScript, Project Management",37,80
+550,45312,Seattle,8.8,581,"Cybersecurity, JavaScript, Digital Marketing",43,50
+551,45338,San Antonio,6.4,461,"Customer Service, Data Analysis, Python",36,32
+552,45205,Denver,11.9,54,"Machine Learning, Cybersecurity, Project Management",25,33
+553,45296,Seattle,13.7,2102,"Agile Methodologies, Sales, Customer Service, Cloud Computing, Machine Learning",35,58
+554,45186,Dallas,11.3,1562,"Sales, JavaScript, Agile Methodologies",50,41
+555,45678,Phoenix,13.2,3320,"Machine Learning, Python, Data Analysis",26,33
+556,45279,Indianapolis,4.1,1431,"Sales, Agile Methodologies",50,76
+557,45297,San Antonio,7.3,4864,"Agile Methodologies, Machine Learning, Cybersecurity, Digital Marketing, UX/UI Design",47,37
+558,45838,Phoenix,13.0,3319,"JavaScript, Machine Learning, Digital Marketing, Agile Methodologies, Data Analysis",27,48
+559,45866,Indianapolis,3.0,3609,"Cloud Computing, Digital Marketing, Python, SQL",47,66
+560,45564,San Diego,11.4,1940,"Customer Service, Agile Methodologies, Data Analysis, Digital Marketing",49,52
+561,45149,Denver,3.8,3697,"Cybersecurity, UX/UI Design, JavaScript, Project Management, SQL",26,52
+562,45623,New York,8.2,1373,"JavaScript, Project Management, Machine Learning",25,80
+563,45595,Los Angeles,9.6,369,"SQL, Digital Marketing, JavaScript",48,80
+564,45410,Fort Worth,5.9,2870,"Digital Marketing, Cybersecurity, Sales, SQL",50,35
+565,45526,Austin,9.7,3092,"Machine Learning, Digital Marketing, UX/UI Design",39,32
+566,45281,San Antonio,7.0,265,"Cloud Computing, Python, Customer Service, JavaScript",40,76
+567,45275,Charlotte,15.0,341,"Agile Methodologies, JavaScript",44,50
+568,45753,San Diego,11.0,612,"Cloud Computing, Project Management, Python",45,45
+569,45369,San Jose,11.7,2185,"Sales, JavaScript, Digital Marketing, Machine Learning, UX/UI Design",25,84
+570,45181,San Antonio,6.6,2913,"Cybersecurity, Python, UX/UI Design, JavaScript, Project Management",43,79
+571,45703,Fort Worth,14.9,4192,"SQL, Agile Methodologies, Sales",41,48
+572,45283,Dallas,4.2,4341,"Cloud Computing, Digital Marketing",50,58
+573,45151,Jacksonville,2.3,2988,"JavaScript, Cloud Computing, Machine Learning, Customer Service, Agile Methodologies",26,90
+574,45161,New York,5.7,4463,"Agile Methodologies, Project Management, UX/UI Design",40,69
+575,45413,San Diego,8.0,659,"Sales, Cloud Computing",26,42
+576,45601,New York,3.8,892,"UX/UI Design, Customer Service, JavaScript, Data Analysis",31,61
+577,45340,Seattle,13.8,2939,"SQL, Cybersecurity",40,58
+578,45840,Seattle,8.9,1491,"Python, Agile Methodologies, JavaScript",32,38
+579,45278,San Diego,11.8,1016,"Project Management, UX/UI Design, Sales, Cybersecurity",36,75
+580,45206,Denver,4.4,805,"SQL, Python",45,44
+581,45789,Fort Worth,14.6,722,"SQL, JavaScript, Python",42,83
+582,45750,San Antonio,6.8,2598,"Sales, SQL, UX/UI Design, Data Analysis, Customer Service",39,72
+583,45443,Dallas,4.6,3190,"UX/UI Design, Agile Methodologies, Sales, Python",42,86
+584,45180,Jacksonville,3.1,2257,"Cybersecurity, SQL, Customer Service, Data Analysis, Agile Methodologies",32,86
+585,45306,San Francisco,11.8,4868,"Cloud Computing, JavaScript, Project Management, UX/UI Design, Python",40,46
+586,45350,Seattle,6.5,1802,"JavaScript, Cloud Computing, Cybersecurity, Python",37,65
+587,45151,Houston,12.9,3975,"Data Analysis, Python, Sales, SQL",40,48
+588,45740,Seattle,2.2,214,"JavaScript, UX/UI Design, Agile Methodologies",46,71
+589,45269,San Francisco,12.2,4084,"Project Management, Digital Marketing, Python, Cybersecurity",31,40
+590,45372,Austin,11.5,3329,"JavaScript, Agile Methodologies, Data Analysis, Machine Learning",35,81
+591,45226,San Antonio,8.0,1570,"Digital Marketing, Cybersecurity",31,69
+592,45372,San Jose,4.5,2102,"Cybersecurity, JavaScript",40,63
+593,45521,Washington,12.9,2090,"Python, Agile Methodologies, UX/UI Design, SQL",39,78
+594,45718,Charlotte,12.3,3873,"SQL, Python, Cybersecurity, Sales, Agile Methodologies",37,79
+595,45248,Denver,2.3,1174,"Project Management, SQL, Data Analysis",41,87
+596,45409,Seattle,12.0,3463,"Customer Service, JavaScript, Digital Marketing, Python, Agile Methodologies",50,71
+597,45562,San Jose,12.5,3662,"Project Management, Sales, Python, Cybersecurity",41,39
+598,45624,Houston,3.2,2070,"Cloud Computing, Sales",25,71
+599,45379,Austin,7.5,4203,"Machine Learning, Sales, Cloud Computing",50,53
+600,45652,San Antonio,6.5,4488,"Machine Learning, JavaScript, Agile Methodologies, Cybersecurity, Data Analysis",39,32
+601,45800,Seattle,10.5,1047,"Sales, Python",40,49
+602,45406,New York,8.8,1037,"Digital Marketing, Sales, Cloud Computing, UX/UI Design, Customer Service",30,82
+603,45273,San Jose,14.4,4990,"Sales, Customer Service",42,69
+604,45203,San Antonio,8.7,1291,"Customer Service, Agile Methodologies, Machine Learning",34,79
+605,45554,Charlotte,13.4,1378,"Data Analysis, Project Management, Cloud Computing",45,71
+606,45660,San Jose,10.6,702,"Sales, UX/UI Design",42,36
+607,45852,San Antonio,11.7,4270,"Sales, Customer Service, Python, Data Analysis, Machine Learning",41,61
+608,45433,San Francisco,4.4,4230,"Python, JavaScript, UX/UI Design",33,45
+609,45829,San Francisco,9.5,3615,"Agile Methodologies, Project Management, Cloud Computing, UX/UI Design",41,51
+610,45317,Houston,12.1,1174,"Data Analysis, SQL",32,63
+611,45255,Denver,7.1,570,"Data Analysis, Customer Service, Cloud Computing, SQL",41,61
+612,45498,San Diego,4.8,1182,"Customer Service, Machine Learning",27,67
+613,45671,Chicago,9.5,1611,"Cloud Computing, Customer Service, Cybersecurity",48,90
+614,45744,Austin,6.1,3098,"Data Analysis, Sales, Customer Service",48,78
+615,45846,Washington,14.1,2242,"Sales, Agile Methodologies, Data Analysis",27,57
+616,45749,Indianapolis,11.4,1296,"Digital Marketing, Agile Methodologies, JavaScript, Python, Cloud Computing",36,55
+617,45659,San Jose,10.0,4560,"UX/UI Design, Project Management, Agile Methodologies",30,43
+618,45521,San Jose,3.7,4971,"Project Management, Customer Service, SQL",38,51
+619,45236,Chicago,6.0,4981,"Data Analysis, Python, Digital Marketing, Cloud Computing",40,87
+620,45288,New York,4.5,151,"Project Management, Data Analysis, SQL, Machine Learning",41,76
+621,45519,Washington,7.8,1469,"Agile Methodologies, Cybersecurity",26,35
+622,45336,Jacksonville,14.1,2529,"Sales, Cloud Computing, Cybersecurity",48,56
+623,45290,Denver,5.2,2162,"Cybersecurity, JavaScript, Machine Learning",46,74
+624,45437,San Antonio,13.3,3557,"Data Analysis, Python",37,79
+625,45544,Fort Worth,13.3,1501,"Digital Marketing, Machine Learning",34,65
+626,45478,Columbus,13.6,3977,"Customer Service, Sales, UX/UI Design",34,52
+627,45575,San Jose,6.6,1635,"Digital Marketing, Data Analysis, SQL",40,38
+628,45219,Houston,5.5,2373,"JavaScript, Python, SQL",46,47
+629,45630,San Antonio,5.0,4335,"SQL, Customer Service",32,87
+630,45555,San Francisco,10.0,4559,"UX/UI Design, JavaScript, Data Analysis",36,49
+631,45536,New York,9.0,4531,"Cybersecurity, Cloud Computing, Customer Service, UX/UI Design",36,40
+632,45234,Columbus,10.0,3668,"SQL, Data Analysis, Python",37,40
+633,45858,Seattle,7.5,3784,"Cybersecurity, JavaScript, SQL, Cloud Computing",29,87
+634,45659,Philadelphia,13.3,3266,"Sales, Machine Learning, Data Analysis",27,60
+635,45212,Los Angeles,12.7,2870,"Cloud Computing, Machine Learning, Agile Methodologies, Project Management, Digital Marketing",43,55
+636,45524,Charlotte,11.4,1712,"UX/UI Design, Machine Learning, Data Analysis",48,57
+637,45304,Los Angeles,11.3,1768,"JavaScript, Python, Digital Marketing, Sales",39,86
+638,45746,New York,13.1,1927,"UX/UI Design, Python, Cloud Computing",41,89
+639,45294,New York,12.3,3884,"Machine Learning, UX/UI Design, Python",37,88
+640,45612,Washington,9.0,2833,"Machine Learning, Customer Service, Digital Marketing",27,88
+641,45854,Fort Worth,3.7,4020,"JavaScript, Machine Learning, Agile Methodologies",39,38
+642,45615,Philadelphia,5.8,2339,"Data Analysis, Customer Service, Cloud Computing, JavaScript",49,53
+643,45658,Jacksonville,8.8,3859,"Machine Learning, Python",46,47
+644,45516,San Diego,12.5,657,"Machine Learning, Python",26,55
+645,45451,San Diego,11.4,1287,"Cloud Computing, Project Management",49,47
+646,45486,Phoenix,12.9,2667,"UX/UI Design, Machine Learning, Data Analysis, Cybersecurity",43,31
+647,45341,Chicago,7.5,3478,"Project Management, Sales, Digital Marketing, Data Analysis, Cybersecurity",28,54
+648,45717,Indianapolis,10.0,446,"Sales, Python, Cloud Computing",31,87
+649,45600,Philadelphia,10.7,3038,"SQL, Machine Learning",27,72
+650,45307,Dallas,10.4,3673,"SQL, Cloud Computing, Python",49,37
+651,45211,Charlotte,5.1,4589,"Machine Learning, Sales, Customer Service",41,53
+652,45210,San Francisco,2.3,326,"Project Management, Cybersecurity, Data Analysis, UX/UI Design",45,30
+653,45706,San Francisco,4.5,1155,"Cybersecurity, Sales, UX/UI Design",27,32
+654,45589,San Antonio,12.6,2374,"Project Management, Data Analysis, Cloud Computing, Sales, Digital Marketing",50,47
+655,45687,Charlotte,13.9,3609,"Machine Learning, UX/UI Design",42,69
+656,45716,Philadelphia,3.1,340,"Digital Marketing, JavaScript, Cybersecurity, Project Management",26,57
+657,45419,Chicago,13.2,3031,"Python, UX/UI Design",32,65
+658,45630,Indianapolis,6.2,1545,"SQL, Digital Marketing",43,52
+659,45465,Chicago,7.9,941,"Data Analysis, Project Management",34,51
+660,45276,Denver,6.0,783,"SQL, Digital Marketing, Python, Customer Service, Cloud Computing",48,31
+661,45632,Philadelphia,5.4,1195,"Python, Customer Service, UX/UI Design, Project Management, Sales",44,84
+662,45714,Los Angeles,6.2,4894,"Cybersecurity, UX/UI Design, Digital Marketing, SQL, Agile Methodologies",45,63
+663,45412,Dallas,6.1,1897,"JavaScript, Machine Learning, Sales, UX/UI Design",25,84
+664,45279,Austin,4.8,4686,"Python, Digital Marketing, SQL, Project Management",39,49
+665,45526,New York,3.4,410,"Customer Service, Agile Methodologies",28,45
+666,45353,Indianapolis,5.0,873,"Customer Service, SQL, Cloud Computing, UX/UI Design, Sales",36,49
+667,45730,Houston,11.1,3418,"Sales, Python, Customer Service, Cybersecurity",35,81
+668,45414,Charlotte,5.8,661,"Python, Digital Marketing, Sales, Cloud Computing, Project Management",48,36
+669,45475,San Jose,6.8,4017,"Python, Data Analysis, Sales, Project Management, Agile Methodologies",42,70
+670,45255,Dallas,6.0,203,"Cybersecurity, Python, Project Management, Digital Marketing",37,48
+671,45314,Philadelphia,3.6,3521,"UX/UI Design, SQL, JavaScript, Machine Learning, Agile Methodologies",27,84
+672,45251,San Diego,4.3,3919,"Python, Project Management",33,64
+673,45180,Charlotte,12.3,2969,"Cloud Computing, Customer Service, Project Management",30,50
+674,45230,San Diego,8.9,4419,"Machine Learning, SQL, Customer Service, Cloud Computing",46,73
+675,45350,Seattle,12.0,172,"Sales, Customer Service, Project Management",27,41
+676,45803,Denver,2.1,990,"Data Analysis, Cybersecurity",34,80
+677,45500,San Diego,7.8,2216,"SQL, JavaScript",33,77
+678,45860,Seattle,6.1,4252,"Customer Service, Project Management, Digital Marketing, Cybersecurity, Sales",26,75
+679,45693,Los Angeles,11.7,208,"Sales, UX/UI Design, Data Analysis, Machine Learning",49,68
+680,45600,Phoenix,11.8,1478,"Customer Service, Agile Methodologies, Project Management",31,71
+681,45854,Fort Worth,4.0,4948,"Sales, Digital Marketing, UX/UI Design, Python, Agile Methodologies",33,77
+682,45385,Denver,14.8,4498,"Project Management, Cybersecurity",42,68
+683,45569,Philadelphia,7.6,2459,"Python, UX/UI Design",46,90
+684,45689,Austin,12.0,4863,"Agile Methodologies, Project Management, Customer Service, Cloud Computing, UX/UI Design",37,39
+685,45594,Seattle,11.7,1852,"Cloud Computing, Project Management",41,56
+686,45720,Fort Worth,2.9,2547,"Sales, Project Management, SQL, Customer Service",25,35
+687,45448,San Diego,2.1,3045,"Cybersecurity, Cloud Computing, Customer Service, UX/UI Design, Project Management",32,55
+688,45248,Los Angeles,10.6,4246,"Digital Marketing, Agile Methodologies",50,59
+689,45675,San Antonio,10.3,756,"Customer Service, Cloud Computing, Python, UX/UI Design",50,48
+690,45167,Denver,12.7,4838,"Project Management, Machine Learning, UX/UI Design, Data Analysis",34,75
+691,45837,Charlotte,12.8,3782,"Cybersecurity, JavaScript, Project Management",40,33
+692,45744,San Francisco,11.3,2535,"Digital Marketing, Customer Service",49,67
+693,45501,Austin,13.3,685,"Data Analysis, UX/UI Design, Project Management",32,37
+694,45369,Austin,9.7,4630,"Python, Cybersecurity",42,75
+695,45351,Fort Worth,10.5,4193,"Project Management, UX/UI Design",39,77
+696,45203,Houston,14.4,3275,"UX/UI Design, SQL, Project Management, JavaScript, Customer Service",30,48
+697,45807,Fort Worth,5.1,2988,"SQL, Cybersecurity",37,49
+698,45354,Dallas,6.5,796,"Data Analysis, Cybersecurity, Python",26,38
+699,45466,Seattle,9.5,3986,"Agile Methodologies, JavaScript, Sales",30,72
+700,45550,Chicago,4.7,2668,"Cloud Computing, Sales, SQL, Project Management, Customer Service",27,57
+701,45721,Fort Worth,5.0,4115,"UX/UI Design, Sales, Agile Methodologies",33,31
+702,45169,Charlotte,13.5,3361,"Project Management, Sales, Python, Machine Learning",26,80
+703,45176,Indianapolis,3.8,4408,"Project Management, Digital Marketing",50,86
+704,45520,San Antonio,12.2,632,"Cloud Computing, Python, Digital Marketing, Agile Methodologies",35,68
+705,45657,Fort Worth,8.7,2472,"Cloud Computing, Data Analysis, JavaScript, Python",31,47
+706,45803,Phoenix,12.9,3264,"Machine Learning, Cloud Computing",33,71
+707,45537,Austin,14.1,3972,"Python, Cloud Computing, Cybersecurity, Sales, Digital Marketing",40,78
+708,45191,Denver,3.3,3826,"Agile Methodologies, Cybersecurity, Cloud Computing, Python, UX/UI Design",49,80
+709,45226,Seattle,7.9,2642,"Customer Service, Cybersecurity, JavaScript, Digital Marketing",44,87
+710,45194,New York,5.7,989,"UX/UI Design, Data Analysis, JavaScript",44,39
+711,45452,Dallas,5.1,3808,"UX/UI Design, Agile Methodologies, Cybersecurity, Customer Service",44,77
+712,45441,Fort Worth,7.1,853,"Customer Service, SQL, Digital Marketing, Python, Agile Methodologies",34,31
+713,45187,Columbus,6.3,3037,"Digital Marketing, Customer Service",45,67
+714,45484,San Jose,13.9,2524,"JavaScript, Agile Methodologies, Project Management, Python, Cloud Computing",48,66
+715,45830,Denver,3.6,4361,"Agile Methodologies, Customer Service",46,36
+716,45490,Phoenix,4.4,4252,"Cybersecurity, Sales, JavaScript, Machine Learning, Digital Marketing",47,38
+717,45148,Seattle,4.5,1333,"Machine Learning, Cybersecurity",32,35
+718,45147,Chicago,14.8,2464,"SQL, Customer Service, Machine Learning, Cybersecurity, Sales",37,52
+719,45389,Austin,14.6,4195,"Python, Sales, Cybersecurity, Project Management, Agile Methodologies",27,30
+720,45342,San Francisco,5.8,2184,"Sales, Customer Service, UX/UI Design, Agile Methodologies, JavaScript",25,45
+721,45381,Jacksonville,6.3,1863,"JavaScript, Customer Service, Machine Learning",49,69
+722,45173,Columbus,9.6,4954,"Digital Marketing, Customer Service, Sales, JavaScript",47,67
+723,45278,San Diego,8.1,1502,"Cloud Computing, Digital Marketing, Data Analysis",28,53
+724,45421,Dallas,9.5,1269,"Customer Service, UX/UI Design",32,67
+725,45363,San Francisco,13.2,2497,"Sales, Agile Methodologies, Cloud Computing, Machine Learning, SQL",25,66
+726,45401,Phoenix,4.2,3472,"UX/UI Design, Project Management, Customer Service, Digital Marketing",44,54
+727,45270,Austin,8.9,2267,"Digital Marketing, SQL, Cloud Computing, Sales, Cybersecurity",45,72
+728,45580,Indianapolis,4.0,60,"SQL, Data Analysis, Digital Marketing, Machine Learning",34,59
+729,45361,Denver,4.8,2138,"Digital Marketing, Data Analysis, Agile Methodologies, Cybersecurity, Machine Learning",41,31
+730,45249,Philadelphia,3.2,3857,"Data Analysis, Sales, Python",35,60
+731,45295,San Francisco,3.8,1159,"UX/UI Design, Agile Methodologies",48,80
+732,45703,Philadelphia,4.0,873,"Sales, Digital Marketing, Cybersecurity, Cloud Computing",29,48
+733,45209,San Diego,13.6,4091,"JavaScript, Python, Machine Learning, Cybersecurity, Cloud Computing",29,39
+734,45616,Columbus,9.9,1737,"Customer Service, Sales, Agile Methodologies",39,87
+735,45742,Chicago,14.0,354,"Python, Project Management, Machine Learning, Digital Marketing, JavaScript",28,64
+736,45154,San Francisco,7.0,1589,"SQL, Python, JavaScript, Sales, Customer Service",49,30
+737,45724,San Antonio,15.0,4075,"Data Analysis, JavaScript, Cybersecurity, Project Management, Agile Methodologies",40,74
+738,45488,Austin,10.3,2538,"Project Management, JavaScript, Sales, Agile Methodologies, SQL",27,82
+739,45530,Phoenix,7.4,1765,"Data Analysis, Digital Marketing, Sales, Customer Service",38,76
+740,45382,New York,14.4,4338,"SQL, Cybersecurity, Sales, Agile Methodologies",29,79
+741,45707,Dallas,11.5,4981,"Agile Methodologies, UX/UI Design, Digital Marketing",44,48
+742,45622,Charlotte,8.1,4006,"Customer Service, Python, UX/UI Design, SQL, Digital Marketing",31,87
+743,45263,Dallas,9.1,2774,"Python, Cloud Computing, UX/UI Design, Data Analysis",49,43
+744,45748,San Antonio,6.2,1192,"SQL, Agile Methodologies, Data Analysis, UX/UI Design, Project Management",28,75
+745,45209,Seattle,12.7,1041,"Customer Service, Machine Learning, Digital Marketing, Cloud Computing, SQL",50,76
+746,45618,San Jose,10.3,3293,"Project Management, JavaScript, Machine Learning, Digital Marketing",28,87
+747,45633,San Francisco,9.5,4088,"Customer Service, SQL, Data Analysis",47,38
+748,45366,Columbus,4.5,481,"Agile Methodologies, Cybersecurity",41,82
+749,45443,Chicago,5.9,2932,"Agile Methodologies, UX/UI Design, SQL, Customer Service",41,72
+750,45444,Indianapolis,12.7,2478,"Machine Learning, SQL, JavaScript, Sales, Customer Service",25,87
+751,45834,Seattle,5.9,1136,"JavaScript, Cybersecurity",39,58
+752,45809,Dallas,8.2,4688,"Agile Methodologies, UX/UI Design, Customer Service",32,71
+753,45612,Washington,9.4,1070,"JavaScript, Sales",29,51
+754,45643,Phoenix,3.3,3296,"Machine Learning, Digital Marketing, Cybersecurity, Sales",40,49
+755,45301,San Diego,13.4,3562,"Python, Customer Service, Machine Learning, UX/UI Design, Data Analysis",31,75
+756,45147,Chicago,10.9,4781,"UX/UI Design, Customer Service, JavaScript",40,51
+757,45238,San Antonio,2.6,3706,"JavaScript, Cybersecurity, Project Management",45,31
+758,45518,San Jose,6.5,279,"Sales, UX/UI Design, Project Management",40,40
+759,45843,Washington,3.8,1114,"SQL, Digital Marketing, Machine Learning, Sales",30,73
+760,45471,Fort Worth,9.8,4310,"Agile Methodologies, Python",27,45
+761,45400,Fort Worth,6.1,2449,"Customer Service, Cybersecurity, JavaScript, SQL",45,49
+762,45615,Columbus,6.3,4347,"Agile Methodologies, UX/UI Design, Cloud Computing",44,46
+763,45270,Austin,12.9,3383,"SQL, Machine Learning, UX/UI Design, Python, Digital Marketing",40,84
+764,45278,Dallas,9.5,131,"Digital Marketing, UX/UI Design, Agile Methodologies, Customer Service",26,65
+765,45430,Indianapolis,12.3,3074,"Python, UX/UI Design",49,70
+766,45235,San Jose,7.3,983,"Cloud Computing, Agile Methodologies, SQL",32,81
+767,45505,Fort Worth,8.9,256,"Python, Data Analysis, Machine Learning, Project Management, Cloud Computing",49,73
+768,45330,Washington,7.9,812,"Digital Marketing, Sales, Customer Service, Data Analysis",25,52
+769,45638,Chicago,12.7,519,"Cloud Computing, Machine Learning, Cybersecurity, Python",39,78
+770,45538,San Diego,12.7,3005,"JavaScript, Digital Marketing, Sales, Project Management, Data Analysis",36,34
+771,45465,San Jose,6.3,3581,"Cloud Computing, Data Analysis",32,74
+772,45274,Charlotte,4.4,3369,"Data Analysis, UX/UI Design, Project Management",35,71
+773,45757,Seattle,8.9,2912,"Customer Service, Machine Learning, Project Management",40,57
+774,45245,Chicago,6.5,620,"Project Management, SQL, Agile Methodologies",35,90
+775,45730,Washington,11.2,1069,"Sales, UX/UI Design, Python, SQL, Project Management",47,63
+776,45197,Philadelphia,7.1,2894,"Python, Cybersecurity, SQL, Digital Marketing, Data Analysis",38,42
+777,45318,Dallas,3.9,692,"Project Management, Customer Service, Python",34,83
+778,45486,Austin,7.8,1643,"UX/UI Design, Cloud Computing, Machine Learning",38,55
+779,45306,Phoenix,11.8,1072,"Cloud Computing, Project Management",38,50
+780,45439,Chicago,9.4,1239,"Machine Learning, UX/UI Design",28,89
+781,45803,Austin,8.3,335,"UX/UI Design, JavaScript",39,58
+782,45298,Houston,9.3,1155,"SQL, Cloud Computing, Agile Methodologies, Customer Service",39,84
+783,45484,Austin,14.5,241,"Digital Marketing, Data Analysis, Cybersecurity, Python, Cloud Computing",39,39
+784,45341,New York,10.1,3570,"SQL, Project Management, Sales",25,82
+785,45578,Jacksonville,11.0,3448,"Cloud Computing, Sales, Digital Marketing, Machine Learning, Project Management",35,40
+786,45322,Fort Worth,6.9,3456,"JavaScript, Python, SQL",42,32
+787,45860,San Antonio,9.3,1212,"Cybersecurity, JavaScript, Digital Marketing, SQL, Data Analysis",46,43
+788,45659,Columbus,9.5,1374,"Agile Methodologies, UX/UI Design, Customer Service",36,43
+789,45780,San Diego,7.9,4758,"Agile Methodologies, Cloud Computing, Customer Service, Project Management",36,73
+790,45563,Denver,2.4,2304,"Python, Agile Methodologies, Project Management, JavaScript",37,46
+791,45862,Los Angeles,3.5,207,"Project Management, Digital Marketing, Agile Methodologies, UX/UI Design, Cloud Computing",44,33
+792,45499,Fort Worth,11.8,2925,"JavaScript, Agile Methodologies, Machine Learning, Sales, UX/UI Design",49,52
+793,45661,Charlotte,3.6,1400,"Cloud Computing, Cybersecurity, Data Analysis, SQL",36,41
+794,45253,Fort Worth,14.0,4674,"Customer Service, Machine Learning, Digital Marketing",39,81
+795,45182,Fort Worth,7.5,2877,"UX/UI Design, Agile Methodologies, Sales",44,57
+796,45700,Los Angeles,10.7,1725,"UX/UI Design, JavaScript, Machine Learning, SQL",29,84
+797,45639,Austin,13.6,4686,"JavaScript, Customer Service, SQL, Machine Learning, Sales",26,56
+798,45835,Denver,12.6,1184,"Sales, Cloud Computing, UX/UI Design, Data Analysis, Machine Learning",40,49
+799,45701,Seattle,9.4,2918,"Cybersecurity, SQL, Data Analysis, Python, Sales",36,84
+800,45474,Dallas,10.2,889,"Project Management, Data Analysis, Machine Learning, UX/UI Design",48,31
+801,45179,San Francisco,13.3,345,"Project Management, Sales, Python, Data Analysis",42,86
+802,45728,Denver,13.1,2983,"SQL, Machine Learning, Agile Methodologies, JavaScript, Cloud Computing",45,86
+803,45409,San Jose,5.6,1353,"Machine Learning, UX/UI Design, Agile Methodologies",26,66
+804,45194,San Francisco,5.2,4087,"Agile Methodologies, UX/UI Design",46,86
+805,45576,Washington,5.7,4313,"Digital Marketing, Project Management, UX/UI Design, Cloud Computing",42,69
+806,45320,New York,12.8,2238,"UX/UI Design, Sales",49,87
+807,45509,Austin,11.9,4521,"Cloud Computing, Sales, Project Management",41,77
+808,45579,Phoenix,8.9,608,"Project Management, Cloud Computing, SQL, JavaScript",46,46
+809,45580,Los Angeles,9.1,3898,"Digital Marketing, JavaScript",43,43
+810,45856,Chicago,3.1,578,"Cybersecurity, Sales, Customer Service",27,76
+811,45187,Houston,10.7,1798,"Machine Learning, JavaScript",30,66
+812,45725,Washington,11.2,2768,"Project Management, Cloud Computing, Customer Service, SQL, Data Analysis",40,50
+813,45214,San Francisco,5.7,557,"SQL, Cloud Computing, JavaScript",45,81
+814,45622,Columbus,11.9,2410,"Cybersecurity, UX/UI Design, Customer Service, Machine Learning",45,44
+815,45362,Philadelphia,12.5,1342,"Python, UX/UI Design, Digital Marketing",28,34
+816,45595,Chicago,2.9,91,"Customer Service, Sales, Cybersecurity, Digital Marketing, Agile Methodologies",30,60
+817,45504,Seattle,10.1,1349,"Data Analysis, Cloud Computing, Sales, Customer Service, Python",46,73
+818,45561,Charlotte,7.3,3634,"Python, Digital Marketing, Sales",45,83
+819,45714,San Francisco,5.1,3115,"UX/UI Design, Sales, Project Management, Cybersecurity",41,39
+820,45363,Austin,13.3,1161,"SQL, Project Management",35,68
+821,45542,New York,4.2,3823,"JavaScript, Sales, Cybersecurity, Data Analysis",35,77
+822,45795,Phoenix,11.1,4823,"Agile Methodologies, Machine Learning, Python",37,32
+823,45706,San Antonio,8.5,3732,"SQL, Python, Agile Methodologies, Machine Learning",36,31
+824,45394,Phoenix,11.7,4747,"Cybersecurity, Data Analysis, Sales",35,66
+825,45375,Austin,8.6,4216,"Customer Service, Cloud Computing, JavaScript",42,30
+826,45833,Houston,5.4,3078,"Data Analysis, Customer Service",28,75
+827,45165,New York,12.5,4332,"Customer Service, Agile Methodologies, Project Management",31,76
+828,45466,Jacksonville,6.7,3689,"Customer Service, SQL, Sales, Cloud Computing, UX/UI Design",41,87
+829,45564,San Jose,2.5,954,"Project Management, Data Analysis, JavaScript",47,55
+830,45843,San Francisco,3.4,3468,"Agile Methodologies, Project Management, Machine Learning, Cloud Computing",34,66
+831,45332,Houston,5.5,3485,"Cloud Computing, Agile Methodologies, Data Analysis",28,59
+832,45307,Dallas,5.3,3095,"Digital Marketing, Agile Methodologies, Project Management, Cloud Computing, JavaScript",29,83
+833,45328,Philadelphia,11.4,1616,"Cybersecurity, JavaScript, Agile Methodologies, Project Management, Machine Learning",47,30
+834,45759,Austin,7.4,3885,"Sales, Digital Marketing, Agile Methodologies",39,65
+835,45824,Seattle,8.7,116,"Agile Methodologies, Machine Learning, Cybersecurity, JavaScript, Digital Marketing",26,76
+836,45273,San Diego,11.1,3138,"Project Management, Digital Marketing, Data Analysis, Sales, Cybersecurity",48,33
+837,45726,Seattle,3.7,1185,"Agile Methodologies, Project Management, Data Analysis, JavaScript",49,59
+838,45251,San Jose,4.6,4254,"Project Management, Data Analysis",44,74
+839,45631,Washington,5.6,3046,"Cloud Computing, Machine Learning",45,86
+840,45756,Los Angeles,7.3,519,"Project Management, Python",40,67
+841,45811,New York,2.7,2702,"UX/UI Design, Cloud Computing, JavaScript, Machine Learning",33,33
+842,45236,San Diego,10.8,1032,"Sales, Customer Service",41,52
+843,45859,Columbus,3.1,605,"Sales, Python, UX/UI Design, Data Analysis",33,62
+844,45153,Denver,14.2,4899,"Cloud Computing, SQL",25,63
+845,45657,Philadelphia,5.1,668,"Digital Marketing, UX/UI Design, Project Management, Customer Service",44,65
+846,45855,Columbus,4.3,3970,"Cloud Computing, Digital Marketing, Customer Service",31,90
+847,45583,Fort Worth,14.1,4853,"SQL, Python",41,48
+848,45545,Austin,12.3,2201,"Agile Methodologies, Machine Learning, Sales, SQL",42,50
+849,45292,Austin,9.2,2932,"Cloud Computing, Cybersecurity, Sales, UX/UI Design, Python",30,74
+850,45740,New York,12.7,4283,"JavaScript, Project Management, Cloud Computing",46,63
+851,45225,Columbus,14.9,87,"Cloud Computing, Cybersecurity",38,49
+852,45144,Philadelphia,12.2,4315,"Project Management, Machine Learning",34,54
+853,45565,Seattle,2.3,1521,"Digital Marketing, Cybersecurity",38,56
+854,45249,San Diego,11.7,1751,"SQL, Cybersecurity",31,44
+855,45669,Denver,14.0,53,"UX/UI Design, Cybersecurity",38,56
+856,45748,Indianapolis,6.3,3019,"Data Analysis, SQL, Sales",37,55
+857,45810,Washington,11.5,3255,"Cybersecurity, Data Analysis",29,50
+858,45465,Fort Worth,15.0,1794,"SQL, Sales, Cybersecurity, Data Analysis",36,85
+859,45346,San Diego,8.4,1329,"Sales, Cybersecurity, SQL, Digital Marketing",37,57
+860,45507,Seattle,3.3,1248,"Machine Learning, Cloud Computing, Cybersecurity",44,90
+861,45636,Chicago,14.7,3766,"Machine Learning, Customer Service",26,78
+862,45248,Washington,5.0,4619,"Python, SQL, Digital Marketing, Project Management, Agile Methodologies",32,72
+863,45780,Dallas,12.0,3165,"Cybersecurity, Python, SQL",43,42
+864,45578,Jacksonville,7.3,717,"SQL, Python, Sales",41,37
+865,45749,Indianapolis,4.1,1455,"Cloud Computing, Data Analysis, Agile Methodologies, Sales",50,50
+866,45533,San Antonio,8.9,3452,"Cloud Computing, Data Analysis, JavaScript",44,56
+867,45720,Washington,10.2,604,"Data Analysis, Python, UX/UI Design, Cloud Computing",30,84
+868,45315,Austin,11.9,1613,"Project Management, JavaScript, Data Analysis, Sales",45,66
+869,45846,Jacksonville,13.1,1065,"Project Management, SQL, Digital Marketing, Machine Learning, Python",38,57
+870,45594,San Francisco,7.0,2340,"Machine Learning, Sales, UX/UI Design",43,71
+871,45850,Fort Worth,3.5,4206,"Machine Learning, Digital Marketing, Data Analysis, Customer Service",34,40
+872,45572,Columbus,4.8,4145,"Python, JavaScript",29,56
+873,45604,San Antonio,5.1,2884,"Project Management, Digital Marketing, JavaScript",43,57
+874,45707,Dallas,14.1,4038,"JavaScript, Digital Marketing, Agile Methodologies",29,81
+875,45559,Houston,11.0,3327,"Cybersecurity, Sales",29,79
+876,45494,Philadelphia,7.1,146,"Data Analysis, SQL, Project Management",42,48
+877,45186,San Antonio,5.8,388,"Sales, Project Management, Cloud Computing, Cybersecurity, Data Analysis",34,76
+878,45400,Dallas,13.2,4495,"Cybersecurity, Project Management, Machine Learning",25,89
+879,45385,Houston,9.2,3697,"JavaScript, Data Analysis, Agile Methodologies",48,60
+880,45496,Fort Worth,13.1,4590,"Cloud Computing, Cybersecurity, Agile Methodologies, Project Management, Customer Service",38,58
+881,45748,Dallas,2.3,1671,"Data Analysis, Sales, Python",36,43
+882,45829,Seattle,10.3,2631,"Digital Marketing, Machine Learning, Data Analysis, Sales",36,58
+883,45621,San Antonio,6.1,1449,"Project Management, Digital Marketing, Machine Learning, Cloud Computing",44,69
+884,45307,San Diego,3.7,1861,"Python, Cloud Computing, Agile Methodologies, UX/UI Design, Project Management",47,70
+885,45326,San Diego,11.3,1004,"Machine Learning, UX/UI Design, Project Management, Data Analysis",30,49
+886,45772,Columbus,2.6,3407,"Machine Learning, Cloud Computing, Customer Service",37,89
+887,45191,San Francisco,9.6,58,"Cybersecurity, Agile Methodologies",43,48
+888,45286,Washington,4.2,2561,"Cloud Computing, Sales, Python",41,42
+889,45857,Houston,12.8,4224,"UX/UI Design, Project Management, Cybersecurity, Python",36,86
+890,45614,Philadelphia,8.9,218,"Data Analysis, Cybersecurity, Python",31,69
+891,45426,Columbus,7.2,1842,"Python, Cybersecurity",39,44
+892,45606,Seattle,10.8,4044,"Cloud Computing, UX/UI Design",35,45
+893,45380,Indianapolis,8.8,775,"Data Analysis, Sales, Cloud Computing, JavaScript",25,86
+894,45498,Washington,4.8,2703,"Project Management, UX/UI Design, Agile Methodologies, Cloud Computing, Python",48,71
+895,45668,Jacksonville,12.9,238,"Agile Methodologies, Cybersecurity",49,75
+896,45770,Denver,7.8,1077,"Machine Learning, Cybersecurity",50,67
+897,45649,Washington,10.5,1936,"Data Analysis, JavaScript, Sales, Python, Cybersecurity",42,90
+898,45282,Dallas,7.7,2898,"JavaScript, Agile Methodologies, Python",25,75
+899,45359,Chicago,7.4,2225,"Project Management, Agile Methodologies, UX/UI Design, JavaScript",48,41
+900,45402,Philadelphia,11.5,1132,"Customer Service, Python, Cybersecurity, Digital Marketing",41,47
+901,45430,Indianapolis,2.7,4733,"Python, UX/UI Design",50,73
+902,45199,Los Angeles,7.8,2399,"Agile Methodologies, Data Analysis, Digital Marketing",42,65
+903,45162,Seattle,6.6,615,"Python, Agile Methodologies, Project Management, Digital Marketing, SQL",44,70
+904,45507,San Francisco,4.9,4977,"Python, UX/UI Design, Cloud Computing, Cybersecurity",26,51
+905,45815,Austin,4.5,568,"SQL, Cloud Computing, Data Analysis, UX/UI Design, Python",38,51
+906,45610,New York,12.8,466,"Machine Learning, Project Management",43,57
+907,45845,Columbus,3.2,4777,"Cloud Computing, Agile Methodologies, Data Analysis, Customer Service",46,72
+908,45723,San Jose,14.8,3032,"Machine Learning, Cybersecurity, JavaScript",38,36
+909,45609,Fort Worth,3.6,2431,"Cloud Computing, Agile Methodologies, SQL, Sales",46,84
+910,45575,Philadelphia,2.7,1323,"Project Management, Digital Marketing",26,30
+911,45741,San Jose,9.3,3260,"Project Management, UX/UI Design",37,89
+912,45792,Charlotte,5.5,488,"SQL, Data Analysis",47,59
+913,45566,Indianapolis,12.0,2444,"UX/UI Design, Machine Learning",49,78
+914,45501,New York,10.0,1155,"Data Analysis, Sales",41,85
+915,45327,San Antonio,15.0,771,"Cybersecurity, Data Analysis, SQL",45,70
+916,45159,Philadelphia,10.7,2659,"UX/UI Design, Machine Learning, Cloud Computing, Customer Service, SQL",36,74
+917,45307,Philadelphia,8.8,2334,"Machine Learning, SQL",25,57
+918,45620,Houston,7.8,2605,"Agile Methodologies, SQL, Customer Service",29,33
+919,45851,Phoenix,15.0,3110,"Python, JavaScript, Cybersecurity, SQL",34,66
+920,45841,Denver,11.3,2964,"Sales, Python",37,69
+921,45764,Houston,7.4,3272,"Customer Service, Cybersecurity, Machine Learning, Cloud Computing",40,53
+922,45280,Jacksonville,14.3,2222,"Cybersecurity, Agile Methodologies, SQL, UX/UI Design",35,39
+923,45794,San Jose,2.0,4427,"Data Analysis, Sales, Python, SQL, Project Management",29,47
+924,45620,San Diego,14.9,430,"Cloud Computing, Project Management, SQL, UX/UI Design, JavaScript",34,86
+925,45620,Austin,2.0,1436,"Project Management, Cybersecurity, Cloud Computing",39,51
+926,45808,Fort Worth,8.3,2388,"Cloud Computing, JavaScript, Agile Methodologies, Customer Service, Sales",39,60
+927,45750,Los Angeles,14.4,653,"Digital Marketing, Project Management, Cloud Computing, Data Analysis, Customer Service",44,77
+928,45496,Houston,14.9,2272,"SQL, Digital Marketing, Python",45,63
+929,45295,Charlotte,12.4,4897,"Python, Sales, Cybersecurity, Digital Marketing, Data Analysis",33,90
+930,45405,New York,7.8,2858,"SQL, Project Management, Machine Learning, Cybersecurity, Python",37,47
+931,45636,Los Angeles,10.7,3149,"Machine Learning, Digital Marketing, JavaScript, Cybersecurity, Data Analysis",35,70
+932,45632,Austin,5.8,3641,"Data Analysis, Customer Service, Cybersecurity, UX/UI Design, Machine Learning",45,66
+933,45724,San Francisco,10.1,3226,"JavaScript, Digital Marketing, SQL, Project Management",43,75
+934,45288,Seattle,15.0,2106,"Agile Methodologies, Cybersecurity, Project Management",27,52
+935,45747,San Jose,14.9,2231,"Customer Service, UX/UI Design",28,59
+936,45285,Chicago,2.6,3180,"Data Analysis, SQL, Digital Marketing",35,82
+937,45475,Dallas,12.9,1713,"Sales, UX/UI Design, Data Analysis, JavaScript",26,46
+938,45721,Denver,4.2,2738,"UX/UI Design, Agile Methodologies, Cybersecurity, Data Analysis, Digital Marketing",38,38
+939,45606,San Antonio,2.3,279,"Cybersecurity, SQL",45,77
+940,45622,San Diego,9.6,1952,"Machine Learning, Cloud Computing, UX/UI Design",36,71
+941,45820,Dallas,9.8,582,"Agile Methodologies, Cybersecurity",29,72
+942,45324,Fort Worth,14.7,1724,"Data Analysis, Project Management, Digital Marketing, SQL",41,87
+943,45151,Dallas,11.7,4037,"Machine Learning, Customer Service, JavaScript, Python",39,45
+944,45527,Jacksonville,8.8,4112,"Customer Service, Cybersecurity",48,90
+945,45171,San Antonio,3.9,3654,"UX/UI Design, Project Management, Digital Marketing",35,48
+946,45530,Chicago,9.8,4768,"Machine Learning, UX/UI Design, Agile Methodologies, Customer Service",32,32
+947,45204,San Diego,10.0,1941,"Agile Methodologies, Digital Marketing, Project Management",48,50
+948,45760,Charlotte,12.3,3581,"Agile Methodologies, Cloud Computing, Data Analysis, Machine Learning, SQL",40,77
+949,45392,Indianapolis,11.4,910,"Cloud Computing, JavaScript, Machine Learning, Sales, SQL",50,86
+950,45513,San Jose,5.2,92,"Digital Marketing, Cloud Computing, Sales",48,47
+951,45494,Austin,14.5,4592,"SQL, Cloud Computing, Python, Cybersecurity, Data Analysis",30,51
+952,45785,Austin,4.0,2608,"Cloud Computing, Customer Service, Agile Methodologies, UX/UI Design",33,82
+953,45794,Philadelphia,5.1,55,"Machine Learning, Data Analysis, JavaScript",38,43
+954,45839,Chicago,9.9,2498,"SQL, UX/UI Design, Sales, Project Management",38,72
+955,45221,Dallas,9.5,4586,"SQL, Cybersecurity",41,36
+956,45630,Jacksonville,7.7,1395,"Cloud Computing, Digital Marketing, SQL, Agile Methodologies, Customer Service",31,49
+957,45508,San Jose,3.9,4932,"Python, Digital Marketing, Sales, SQL, Machine Learning",45,54
+958,45522,Seattle,2.1,2061,"Python, UX/UI Design, JavaScript",26,77
+959,45701,Jacksonville,7.6,4010,"Agile Methodologies, Cybersecurity, Digital Marketing, SQL",38,36
+960,45375,San Antonio,12.7,2403,"Agile Methodologies, Machine Learning, Python",30,82
+961,45768,San Francisco,4.7,1129,"Cybersecurity, UX/UI Design",38,87
+962,45139,Los Angeles,7.9,4528,"Customer Service, Agile Methodologies, JavaScript, Cybersecurity",32,57
+963,45406,Charlotte,2.9,895,"Agile Methodologies, Machine Learning, Customer Service, Python",43,47
+964,45302,Charlotte,4.3,3411,"Customer Service, Sales, Cloud Computing, Digital Marketing, Python",28,76
+965,45312,Seattle,3.2,3025,"Data Analysis, JavaScript, Project Management",43,65
+966,45305,San Francisco,3.6,3920,"Sales, Cybersecurity, JavaScript, Data Analysis",35,88
+967,45499,New York,14.5,2501,"JavaScript, Cloud Computing",34,67
+968,45664,New York,8.1,1339,"Machine Learning, Customer Service, Cloud Computing, JavaScript, Cybersecurity",50,86
+969,45334,Charlotte,9.1,458,"Customer Service, JavaScript, SQL",26,60
+970,45813,Chicago,2.9,3310,"JavaScript, UX/UI Design, Cloud Computing",43,87
+971,45834,Jacksonville,14.5,2219,"UX/UI Design, Python",25,80
+972,45387,Seattle,5.6,2638,"Project Management, Data Analysis, Customer Service",48,53
+973,45855,Phoenix,5.4,99,"Agile Methodologies, UX/UI Design, SQL, Cybersecurity, Data Analysis",25,71
+974,45784,Denver,7.8,2053,"Data Analysis, Sales, Digital Marketing, UX/UI Design",34,49
+975,45696,San Antonio,4.0,103,"Data Analysis, Customer Service, Agile Methodologies, Cloud Computing, Cybersecurity",44,39
+976,45176,Dallas,9.5,2260,"Cybersecurity, Sales, UX/UI Design, Customer Service",48,33
+977,45201,Dallas,9.2,3309,"Digital Marketing, Customer Service, Cloud Computing",27,48
+978,45461,Phoenix,12.2,538,"Data Analysis, Machine Learning, Agile Methodologies, UX/UI Design, Project Management",47,36
+979,45865,Indianapolis,10.7,2983,"Data Analysis, Machine Learning",38,62
+980,45617,Dallas,12.4,1513,"Customer Service, UX/UI Design",33,41
+981,45830,Indianapolis,11.8,591,"SQL, JavaScript, Sales, Cloud Computing, Cybersecurity",44,77
+982,45844,San Antonio,9.9,4769,"SQL, Project Management, Machine Learning, Digital Marketing, Customer Service",40,50
+983,45670,Seattle,14.5,4887,"Customer Service, Data Analysis, SQL, Python",28,75
+984,45720,New York,10.4,225,"JavaScript, Agile Methodologies, Project Management, Data Analysis",37,54
+985,45410,Seattle,13.0,2749,"Cloud Computing, SQL, Digital Marketing, Customer Service, Cybersecurity",45,43
+986,45552,Charlotte,3.6,3000,"Project Management, JavaScript, UX/UI Design",30,43
+987,45468,Philadelphia,13.8,4185,"JavaScript, Cloud Computing, Digital Marketing, Sales",35,32
+988,45264,Philadelphia,8.3,1978,"Digital Marketing, SQL, Cybersecurity, Agile Methodologies, Customer Service",34,51
+989,45732,San Jose,12.8,925,"UX/UI Design, Sales, Cybersecurity, Customer Service",41,40
+990,45259,Seattle,7.4,4945,"Cybersecurity, UX/UI Design, SQL",34,87
+991,45716,Dallas,11.0,1556,"Digital Marketing, Customer Service, Agile Methodologies, Python",27,41
+992,45653,San Diego,5.7,1456,"Digital Marketing, SQL, Customer Service, Machine Learning",49,69
+993,45435,San Jose,7.6,3616,"Data Analysis, Cybersecurity, Digital Marketing, SQL, Agile Methodologies",37,57
+994,45408,San Diego,14.8,4113,"Agile Methodologies, Digital Marketing, Sales, Data Analysis",43,66
+995,45386,Columbus,12.7,4208,"Customer Service, Machine Learning, Python, Project Management",43,43
+996,45237,Jacksonville,8.9,4127,"UX/UI Design, Data Analysis",43,84
+997,45349,Austin,8.3,1203,"Project Management, JavaScript, Agile Methodologies, Data Analysis",46,41
+998,45212,Denver,4.9,184,"JavaScript, Project Management, Machine Learning, Sales, Data Analysis",25,68
+999,45420,Dallas,6.7,3236,"Project Management, Digital Marketing, Sales, Agile Methodologies, UX/UI Design",25,65
+1000,45846,San Francisco,5.8,350,"JavaScript, Customer Service, Agile Methodologies, Cloud Computing",32,64
